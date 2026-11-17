@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the archived version."
+title: "Code and data for: Over-correction and confidence in prompted language models for Korean grammatical error correction"
+version: 1.0.0
+doi: 10.5281/zenodo.24301225
+date-released: 2026-11-17
+license: MIT
+repository-code: "https://github.com/dongzefeng-2026/kgec-overcorrection-confidence"
+authors:
+  - family-names: Feng
+    given-names: Dongze
+    affiliation: "Qingdao Hengxing University of Science and Technology"

@@ -2,6 +2,8 @@
 
 This repository accompanies the article *Over-correction and confidence in prompted language models for Korean grammatical error correction: An exploratory evaluation on second-language and heritage learner writing* (PLOS ONE, under review, PONE-D-26-44963).
 
+Version 1.0.0 of this repository is archived at Zenodo: <https://doi.org/10.5281/zenodo.24301225>.
+
 ## Contents
 
 | Path | Description |
