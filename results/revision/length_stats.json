@@ -1,0 +1,365 @@
+{
+ "n_sentences": 1393,
+ "rows": {
+  "Source": {
+   "eojeol": {
+    "total": 9030,
+    "per_sent": 6.482412060301508,
+    "vs_source_pct": 0.0,
+    "vs_ref_mean_pct": -5.037333052897253,
+    "abs_diff_nearest_ref": 0.18449389806173727,
+    "changed_len_rate": 0.0
+   },
+   "morpheme": {
+    "total": 17548,
+    "per_sent": 12.59727207465901,
+    "vs_source_pct": 0.0,
+    "vs_ref_mean_pct": -4.973871605339397,
+    "abs_diff_nearest_ref": 0.5032304379038047,
+    "changed_len_rate": 0.0
+   }
+  },
+  "Reference 1": {
+   "eojeol": {
+    "total": 10055,
+    "per_sent": 7.218234027279253,
+    "vs_source_pct": 11.351052048726462,
+    "vs_ref_mean_pct": 5.741928699127152,
+    "abs_diff_nearest_ref": 0,
+    "changed_len_rate": 0.36180904522613067
+   },
+   "morpheme": {
+    "total": 19442,
+    "per_sent": 13.956927494615936,
+    "vs_source_pct": 10.793252792341,
+    "vs_ref_mean_pct": 5.282538651070867,
+    "abs_diff_nearest_ref": 0,
+    "changed_len_rate": 0.5032304379038047
+   }
+  },
+  "Reference 2": {
+   "eojeol": {
+    "total": 8963,
+    "per_sent": 6.434314429289303,
+    "vs_source_pct": -0.7419712070874884,
+    "vs_ref_mean_pct": -5.741928699127142,
+    "abs_diff_nearest_ref": 0,
+    "changed_len_rate": 0.22756640344580042
+   },
+   "morpheme": {
+    "total": 17491,
+    "per_sent": 12.55635319454415,
+    "vs_source_pct": -0.3248233416913604,
+    "vs_ref_mean_pct": -5.2825386510708565,
+    "abs_diff_nearest_ref": 0,
+    "changed_len_rate": 0.43503230437903806
+   }
+  },
+  "No-op": {
+   "eojeol": {
+    "total": 9030,
+    "per_sent": 6.482412060301508,
+    "vs_source_pct": 0.0,
+    "vs_ref_mean_pct": -5.037333052897253,
+    "abs_diff_nearest_ref": 0.18449389806173727,
+    "changed_len_rate": 0.0
+   },
+   "morpheme": {
+    "total": 17548,
+    "per_sent": 12.59727207465901,
+    "vs_source_pct": 0.0,
+    "vs_ref_mean_pct": -4.973871605339397,
+    "abs_diff_nearest_ref": 0.5032304379038047,
+    "changed_len_rate": 0.0
+   }
+  },
+  "Midm-2.0 (0-shot)": {
+   "eojeol": {
+    "total": 8920,
+    "per_sent": 6.403445800430725,
+    "vs_source_pct": -1.218161683277963,
+    "vs_ref_mean_pct": -6.194131875065723,
+    "abs_diff_nearest_ref": 0.16941852117731515,
+    "changed_len_rate": 0.15577889447236182
+   },
+   "morpheme": {
+    "total": 17436,
+    "per_sent": 12.516870064608758,
+    "vs_source_pct": -0.6382493731479366,
+    "vs_ref_mean_pct": -5.580375274145077,
+    "abs_diff_nearest_ref": 0.37329504666188085,
+    "changed_len_rate": 0.22756640344580042
+   }
+  },
+  "Midm-2.0 (4-shot)": {
+   "eojeol": {
+    "total": 8935,
+    "per_sent": 6.414213926776741,
+    "vs_source_pct": -1.0520487264673362,
+    "vs_ref_mean_pct": -6.036386581133668,
+    "abs_diff_nearest_ref": 0.21536252692031588,
+    "changed_len_rate": 0.23187365398420676
+   },
+   "morpheme": {
+    "total": 17515,
+    "per_sent": 12.573582196697775,
+    "vs_source_pct": -0.18805561887395017,
+    "vs_ref_mean_pct": -5.152573579183928,
+    "abs_diff_nearest_ref": 0.4178033022254128,
+    "changed_len_rate": 0.3811916726489591
+   }
+  },
+  "Kanana-1.5-8B (0-shot)": {
+   "eojeol": {
+    "total": 8906,
+    "per_sent": 6.393395549174444,
+    "vs_source_pct": -1.3732004429678812,
+    "vs_ref_mean_pct": -6.3413608160689865,
+    "abs_diff_nearest_ref": 0.2641780330222541,
+    "changed_len_rate": 0.3036611629576454
+   },
+   "morpheme": {
+    "total": 17546,
+    "per_sent": 12.59583632447954,
+    "vs_source_pct": -0.011397310234784186,
+    "vs_ref_mean_pct": -4.984702027996645,
+    "abs_diff_nearest_ref": 0.5262024407753051,
+    "changed_len_rate": 0.4601579325197416
+   }
+  },
+  "Kanana-1.5-8B (4-shot)": {
+   "eojeol": {
+    "total": 8942,
+    "per_sent": 6.4192390524048815,
+    "vs_source_pct": -0.9745293466223659,
+    "vs_ref_mean_pct": -5.962772110632031,
+    "abs_diff_nearest_ref": 0.2447954055994257,
+    "changed_len_rate": 0.3094041636755205
+   },
+   "morpheme": {
+    "total": 17555,
+    "per_sent": 12.60229720028715,
+    "vs_source_pct": 0.03989058582174465,
+    "vs_ref_mean_pct": -4.935965126039044,
+    "abs_diff_nearest_ref": 0.47164393395549176,
+    "changed_len_rate": 0.4838478104809763
+   }
+  },
+  "EXAONE-3.5-7.8B (0-shot)": {
+   "eojeol": {
+    "total": 8945,
+    "per_sent": 6.421392677674085,
+    "vs_source_pct": -0.9413067552602405,
+    "vs_ref_mean_pct": -5.931223051845624,
+    "abs_diff_nearest_ref": 0.45585068198133527,
+    "changed_len_rate": 0.3969849246231156
+   },
+   "morpheme": {
+    "total": 17623,
+    "per_sent": 12.651112706389089,
+    "vs_source_pct": 0.4273991338044292,
+    "vs_ref_mean_pct": -4.567730755692745,
+    "abs_diff_nearest_ref": 0.9023689877961235,
+    "changed_len_rate": 0.5728643216080402
+   }
+  },
+  "EXAONE-3.5-7.8B (4-shot)": {
+   "eojeol": {
+    "total": 8933,
+    "per_sent": 6.412778176597272,
+    "vs_source_pct": -1.074197120708753,
+    "vs_ref_mean_pct": -6.057419286991273,
+    "abs_diff_nearest_ref": 0.4178033022254128,
+    "changed_len_rate": 0.38621679827709976
+   },
+   "morpheme": {
+    "total": 17625,
+    "per_sent": 12.652548456568557,
+    "vs_source_pct": 0.43879644403921336,
+    "vs_ref_mean_pct": -4.556900333035497,
+    "abs_diff_nearest_ref": 0.8348887293610912,
+    "changed_len_rate": 0.5563531945441493
+   }
+  },
+  "HyperCLOVAX-1.5B (0-shot)": {
+   "eojeol": {
+    "total": 8790,
+    "per_sent": 6.310122038765255,
+    "vs_source_pct": -2.657807308970095,
+    "vs_ref_mean_pct": -7.56125775581028,
+    "abs_diff_nearest_ref": 0.2964824120603015,
+    "changed_len_rate": 0.29576453697056715
+   },
+   "morpheme": {
+    "total": 17195,
+    "per_sent": 12.34386216798277,
+    "vs_source_pct": -2.0116252564394754,
+    "vs_ref_mean_pct": -6.885441204343001,
+    "abs_diff_nearest_ref": 0.6037329504666188,
+    "changed_len_rate": 0.39411342426417806
+   }
+  },
+  "HyperCLOVAX-1.5B (4-shot)": {
+   "eojeol": {
+    "total": 8895,
+    "per_sent": 6.385498923187366,
+    "vs_source_pct": -1.4950166112956853,
+    "vs_ref_mean_pct": -6.457040698285832,
+    "abs_diff_nearest_ref": 0.3840631730078966,
+    "changed_len_rate": 0.36180904522613067
+   },
+   "morpheme": {
+    "total": 17475,
+    "per_sent": 12.544867193108399,
+    "vs_source_pct": -0.4160018235696339,
+    "vs_ref_mean_pct": -5.369182032328812,
+    "abs_diff_nearest_ref": 0.7659727207465901,
+    "changed_len_rate": 0.49676956209619527
+   }
+  },
+  "Qwen3-14B (0-shot)": {
+   "eojeol": {
+    "total": 8923,
+    "per_sent": 6.405599425699928,
+    "vs_source_pct": -1.1849390919158376,
+    "vs_ref_mean_pct": -6.162582816279317,
+    "abs_diff_nearest_ref": 0.22325915290739412,
+    "changed_len_rate": 0.2613065326633166
+   },
+   "morpheme": {
+    "total": 17550,
+    "per_sent": 12.598707824838478,
+    "vs_source_pct": 0.011397310234784186,
+    "vs_ref_mean_pct": -4.96304118268216,
+    "abs_diff_nearest_ref": 0.46733668341708545,
+    "changed_len_rate": 0.36109117013639624
+   }
+  },
+  "Qwen3-14B (4-shot)": {
+   "eojeol": {
+    "total": 8973,
+    "per_sent": 6.441493180186647,
+    "vs_source_pct": -0.6312292358804039,
+    "vs_ref_mean_pct": -5.636765169839098,
+    "abs_diff_nearest_ref": 0.24335965541995694,
+    "changed_len_rate": 0.2907394113424264
+   },
+   "morpheme": {
+    "total": 17641,
+    "per_sent": 12.664034458004307,
+    "vs_source_pct": 0.5299749259174868,
+    "vs_ref_mean_pct": -4.47025695177754,
+    "abs_diff_nearest_ref": 0.4910265613783202,
+    "changed_len_rate": 0.42928930366116297
+   }
+  },
+  "Qwen3-32B (0-shot)": {
+   "eojeol": {
+    "total": 8938,
+    "per_sent": 6.416367552045944,
+    "vs_source_pct": -1.0188261351051997,
+    "vs_ref_mean_pct": -6.00483752234725,
+    "abs_diff_nearest_ref": 0.2139267767408471,
+    "changed_len_rate": 0.26274228284278534
+   },
+   "morpheme": {
+    "total": 17542,
+    "per_sent": 12.592964824120603,
+    "vs_source_pct": -0.03419193070435256,
+    "vs_ref_mean_pct": -5.006362873311132,
+    "abs_diff_nearest_ref": 0.457286432160804,
+    "changed_len_rate": 0.40416367552045945
+   }
+  },
+  "Qwen3-32B (4-shot)": {
+   "eojeol": {
+    "total": 8960,
+    "per_sent": 6.432160804020101,
+    "vs_source_pct": -0.7751937984496138,
+    "vs_ref_mean_pct": -5.773477757913559,
+    "abs_diff_nearest_ref": 0.2340272792534099,
+    "changed_len_rate": 0.2656137832017229
+   },
+   "morpheme": {
+    "total": 17554,
+    "per_sent": 12.601579325197415,
+    "vs_source_pct": 0.03419193070435256,
+    "vs_ref_mean_pct": -4.941380337367662,
+    "abs_diff_nearest_ref": 0.4680545585068198,
+    "changed_len_rate": 0.4472361809045226
+   }
+  },
+  "Qwen3-8B (0-shot)": {
+   "eojeol": {
+    "total": 8844,
+    "per_sent": 6.348887293610912,
+    "vs_source_pct": -2.0598006644518274,
+    "vs_ref_mean_pct": -6.993374697654852,
+    "abs_diff_nearest_ref": 0.24623115577889448,
+    "changed_len_rate": 0.20531227566403445
+   },
+   "morpheme": {
+    "total": 17404,
+    "per_sent": 12.493898061737259,
+    "vs_source_pct": -0.8206063369044947,
+    "vs_ref_mean_pct": -5.7536620366609785,
+    "abs_diff_nearest_ref": 0.5563531945441493,
+    "changed_len_rate": 0.28858578607322327
+   }
+  },
+  "Qwen3-8B (4-shot)": {
+   "eojeol": {
+    "total": 8943,
+    "per_sent": 6.419956927494616,
+    "vs_source_pct": -0.9634551495016574,
+    "vs_ref_mean_pct": -5.952255757703229,
+    "abs_diff_nearest_ref": 0.2189519023689878,
+    "changed_len_rate": 0.23259152907394112
+   },
+   "morpheme": {
+    "total": 17649,
+    "per_sent": 12.669777458722182,
+    "vs_source_pct": 0.5755641668566236,
+    "vs_ref_mean_pct": -4.426935261148568,
+    "abs_diff_nearest_ref": 0.47020818377602297,
+    "changed_len_rate": 0.33668341708542715
+   }
+  },
+  "A.X-4.0-Light (0-shot)": {
+   "eojeol": {
+    "total": 8987,
+    "per_sent": 6.4515434314429285,
+    "vs_source_pct": -0.4761904761904745,
+    "vs_ref_mean_pct": -5.489536228835846,
+    "abs_diff_nearest_ref": 0.2555635319454415,
+    "changed_len_rate": 0.29863603732950467
+   },
+   "morpheme": {
+    "total": 17558,
+    "per_sent": 12.604450825556354,
+    "vs_source_pct": 0.05698655117392093,
+    "vs_ref_mean_pct": -4.919719492053176,
+    "abs_diff_nearest_ref": 0.4946159368269921,
+    "changed_len_rate": 0.41995692749461594
+   }
+  },
+  "A.X-4.0-Light (4-shot)": {
+   "eojeol": {
+    "total": 8945,
+    "per_sent": 6.421392677674085,
+    "vs_source_pct": -0.9413067552602405,
+    "vs_ref_mean_pct": -5.931223051845624,
+    "abs_diff_nearest_ref": 0.2828427853553482,
+    "changed_len_rate": 0.3108399138549892
+   },
+   "morpheme": {
+    "total": 17508,
+    "per_sent": 12.568557071069634,
+    "vs_source_pct": -0.22794620469569482,
+    "vs_ref_mean_pct": -5.190480058484281,
+    "abs_diff_nearest_ref": 0.5656855707106964,
+    "changed_len_rate": 0.4644651830581479
+   }
+  }
+ }
+}

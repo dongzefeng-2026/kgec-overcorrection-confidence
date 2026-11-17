@@ -1,0 +1,304 @@
+{"id":0,"label":"ERROR","register":false,"rationale":"Intended 예술적이게 (made it artistic); '예술적인 일을 했어요' changes the meaning to 'did artistic work'."}
+{"id":1,"label":"UNNECESSARY","register":false,"rationale":"Comma insertion in an already acceptable coordinated clause."}
+{"id":2,"label":"ERROR","register":false,"rationale":"Output contains markdown '**고**' and leaves the predicate incomplete."}
+{"id":3,"label":"VALID","register":false,"rationale":"Fixes the spacing 사먹어 -> 사 먹어 (as REF-2) but bundles it with a stylistic replacement of the repeated locative by 직접."}
+{"id":4,"label":"UNNECESSARY","register":false,"rationale":"'시험 후' is acceptable without 에; adding the particle is optional."}
+{"id":5,"label":"VALID","register":false,"rationale":"Repairs 쏜쌀 -> 쏜살 and 지오 -> 지요 acceptably, with an additional rephrasing to 쏜살같이 가지요."}
+{"id":6,"label":"ERROR","register":false,"rationale":"The output appends an arrow and a duplicated sentence; a formatting failure, not a correction."}
+{"id":7,"label":"ERROR","register":false,"rationale":"찬는 should be 찾는 (find); 지키는 (protect) changes the meaning."}
+{"id":8,"label":"ERROR","register":false,"rationale":"Missing object (한국 사람을); '한국과 사귈' (date Korea) is nonsensical."}
+{"id":9,"label":"ERROR","register":false,"rationale":"친짜 should be 진짜 (real friend); '친하게 지내는지' changes the meaning."}
+{"id":10,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":11,"label":"ERROR","register":true,"rationale":"Source was acceptable; the edit drops the honorific -시- and changes the modality to 'will be able to like'."}
+{"id":12,"label":"ERROR","register":false,"rationale":"The garbled 기울 다고 remains ungrammatical after adding 을; no repair."}
+{"id":13,"label":"VALID","register":false,"rationale":"'센터에 네거리를 건너세요' needs a locative fix; '센터 앞 네거리' is an acceptable alternative to REF-1's 센터에서."}
+{"id":14,"label":"UNNECESSARY","register":false,"rationale":"경험을 해 and 경험해 are both correct; stylistic contraction."}
+{"id":15,"label":"ERROR","register":false,"rationale":"Deletes 전화 (phone), removing content the learner expressed."}
+{"id":16,"label":"ERROR","register":false,"rationale":"Intended 아니었지만 (was not the score); 없지만 (there is no score) changes the meaning."}
+{"id":17,"label":"ERROR","register":false,"rationale":"팍/푹 끓이다 is intended; 포기 is a nonsensical substitution."}
+{"id":18,"label":"ERROR","register":false,"rationale":"Turns the coordinate clause into a quotative 결혼하겠다고, making the sentence ungrammatical."}
+{"id":19,"label":"VALID","register":false,"rationale":"식사하다 is written without a space; a genuine spacing error that both references left."}
+{"id":20,"label":"VALID","register":false,"rationale":"운동하다 is written without a space; genuine spacing error not corrected by REF-2."}
+{"id":21,"label":"ERROR","register":false,"rationale":"Missing predicate should be 먹을 때 (when eating soup); 끓일 때 (when cooking) changes the meaning."}
+{"id":22,"label":"ERROR","register":false,"rationale":"친짜 should be 진짜; '친하게 친구를' is ungrammatical."}
+{"id":23,"label":"VALID","register":false,"rationale":"Completes the fragment with 해요; equivalent to REF-2's 합니다 apart from speech level."}
+{"id":24,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":25,"label":"VALID","register":false,"rationale":"잘르고 is misspelled; 썰고 (slice) is an appropriate lexical repair in a cooking context."}
+{"id":26,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":27,"label":"UNNECESSARY","register":true,"rationale":"춥지요 is correct; switching to 춥습니다 changes speech level and drops the tag-question nuance."}
+{"id":28,"label":"ERROR","register":false,"rationale":"Inserts markdown-wrapped '않다', producing the ungrammatical '많이 않다'."}
+{"id":29,"label":"ERROR","register":false,"rationale":"초조했어 should be the connective 초조해서; splitting with a period does not repair it."}
+{"id":30,"label":"UNNECESSARY","register":false,"rationale":"유명하게 되었습니다 and 유명해졌습니다 are both correct."}
+{"id":31,"label":"UNNECESSARY","register":true,"rationale":"올라갑니다 is correct; changing to 올라가요 only shifts the speech level."}
+{"id":32,"label":"UNNECESSARY","register":false,"rationale":"이랑 is correct colloquial conjunction; 과 is a stylistic alternative."}
+{"id":33,"label":"ERROR","register":false,"rationale":"Present 끝낸다 is natural when closing a text; the past tense changes the meaning."}
+{"id":34,"label":"VALID","register":false,"rationale":"Completes the fragment with 있습니다, as REF-2 does with 있다."}
+{"id":35,"label":"ERROR","register":false,"rationale":"Intended 맛있는 (delicious); 마시는 (drinking) is wrong."}
+{"id":36,"label":"VALID","register":false,"rationale":"도시 에 서 는 -> 도시에서는 fixes a genuine spacing error that both references left."}
+{"id":37,"label":"ERROR","register":false,"rationale":"Reinterprets the garbled phrase as 'expressing gratitude', changing the meaning (REF-2: accepting modest happiness)."}
+{"id":38,"label":"UNNECESSARY","register":false,"rationale":"공부법 is correct; 공부 방법 is a stylistic expansion."}
+{"id":39,"label":"ERROR","register":false,"rationale":"Changes the number 120 to 20."}
+{"id":40,"label":"VALID","register":false,"rationale":"The particle 하고 must attach to its host (부모님하고); 부모님과 repairs the spacing error, which both references left."}
+{"id":41,"label":"ERROR","register":false,"rationale":"친짜 should be 진짜 (real); 친밀한 (intimate) changes the meaning."}
+{"id":42,"label":"ERROR","register":false,"rationale":"Source was correct; 그런답니다 adds a reportative/explanatory nuance not present in the original."}
+{"id":43,"label":"VALID","register":false,"rationale":"Repairs 냄비아 -> 냄비에 and 잘른 -> 잘린 and the detached 하고, using 과 instead of 하고."}
+{"id":44,"label":"GRANULARITY","register":false,"rationale":"Same repair as REF-2 (지나면서); REF-2 records it together with the deletion of 또."}
+{"id":45,"label":"VALID","register":false,"rationale":"Moves 훨씬 to modify the comparative, a word-order repair different from REF-2's placement."}
+{"id":46,"label":"ERROR","register":false,"rationale":"지지난 (the weekend before last) -> 지난 (last weekend) changes the meaning."}
+{"id":47,"label":"VALID","register":true,"rationale":"Same aspect change as REF-2 (놀았어요) but also shifts the speech level to 놀았습니다."}
+{"id":48,"label":"UNNECESSARY","register":false,"rationale":"바꿉니다 is correct; 변화시킵니다 is a synonym."}
+{"id":49,"label":"UNNECESSARY","register":false,"rationale":"국립 공원 and 국립공원 are both acceptable spacings."}
+{"id":50,"label":"ERROR","register":false,"rationale":"Intended 기회가 많으니 (many opportunities); 'trying to become happy' changes the meaning."}
+{"id":51,"label":"ERROR","register":false,"rationale":"열린 채로 needs 연/벌린 채로; 열어 loses the 'with mouth kept open' meaning."}
+{"id":52,"label":"ERROR","register":false,"rationale":"Guesses 화분 (flower pot) for 포타; unsupported change of referent."}
+{"id":53,"label":"ERROR","register":false,"rationale":"Intended 원하는 점수가 아니었지만; the rewrite changes the meaning."}
+{"id":54,"label":"ERROR","register":false,"rationale":"Drops '생각을 했습니다' (I thought) and changes 진짜 to 진지 (serious)."}
+{"id":55,"label":"UNNECESSARY","register":false,"rationale":"드나 보죠 is correct; 봐요 is a stylistic alternative within the same speech level."}
+{"id":56,"label":"UNNECESSARY","register":false,"rationale":"날마다 and 매일 are synonyms."}
+{"id":57,"label":"UNNECESSARY","register":true,"rationale":"Replaces the humble 저에게 with plain 나에게, changing the honorific register."}
+{"id":58,"label":"UNNECESSARY","register":false,"rationale":"Optional comma between coordinated clauses."}
+{"id":59,"label":"ERROR","register":false,"rationale":"조지아 택 is Georgia Tech; adding 에 to 조지아 misparses the name."}
+{"id":60,"label":"ERROR","register":false,"rationale":"Deletes 옆 (next to), so the room is said to be in the kitchen."}
+{"id":61,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":62,"label":"ERROR","register":false,"rationale":"Adds markdown italics to the film title."}
+{"id":63,"label":"UNNECESSARY","register":false,"rationale":"아름답다고들 한답니다 is correct; the simplification only removes nuance."}
+{"id":64,"label":"GRANULARITY","register":false,"rationale":"Same repair as REF-2 (노력하고), recorded together with an added comma."}
+{"id":65,"label":"ERROR","register":false,"rationale":"A comma after 남편 makes 'husband, younger brothers' instead of 'husband's younger brothers' (refs add 의)."}
+{"id":66,"label":"ERROR","register":false,"rationale":"저에게는 ... 많이 있지 않았습니다 does not repair the garbled clause."}
+{"id":67,"label":"ERROR","register":false,"rationale":"Inserting 아이를 yields an incoherent clause; the intended repair is 나를 행복하게 할 것."}
+{"id":68,"label":"VALID","register":false,"rationale":"Removes the misused conjunction 하고 in an English list, an acceptable alternative to 그리고."}
+{"id":69,"label":"UNNECESSARY","register":false,"rationale":"Non-past 하고 in a coordinate clause with a past main clause is acceptable; 했고 is optional."}
+{"id":70,"label":"ERROR","register":false,"rationale":"가서도 있습니다 leaves the clause incoherent; no repair."}
+{"id":71,"label":"ERROR","register":false,"rationale":"Changes 가족 to 가정 without fixing the particle error."}
+{"id":72,"label":"UNNECESSARY","register":true,"rationale":"같습니다 is correct; 같아요 only changes the speech level."}
+{"id":73,"label":"VALID","register":false,"rationale":"'2개 목욕탕' is unnatural; 2개의 목욕탕 is an acceptable alternative to REF-2's reordering."}
+{"id":74,"label":"ERROR","register":false,"rationale":"Fixes 일어나 and the spacing but adds 쯤 (about), changing the stated time."}
+{"id":75,"label":"VALID","register":false,"rationale":"Fixes 알지만 spacing and correctly replaces 인지 알다 with 인 줄 알다."}
+{"id":76,"label":"GRANULARITY","register":false,"rationale":"System sentence equals REF-2; the token alignment split the same repair into different edits."}
+{"id":77,"label":"ERROR","register":false,"rationale":"바뀌어진 is a nonstandard double passive; REF-2 uses 바뀐."}
+{"id":78,"label":"ERROR","register":false,"rationale":"바뀌지지 remains ungrammatical."}
+{"id":79,"label":"VALID","register":false,"rationale":"Fixes the misspelling 한굴 -> 한글, though it misses the particle 로 that the references add."}
+{"id":80,"label":"VALID","register":false,"rationale":"Attaches 에서 to its host, a genuine spacing repair; the misspelt place name is left."}
+{"id":81,"label":"VALID","register":false,"rationale":"Replaces the misspelt 괭장히 with the near-synonym 꽤나; acceptable though weaker in intensity."}
+{"id":82,"label":"ERROR","register":false,"rationale":"일이 나서 (something happened) misreads the intended 일어나서 (woke up)."}
+{"id":83,"label":"VALID","register":false,"rationale":"Inserts the missing predicate 구경하는 게, an alternative to the references' 보는 게."}
+{"id":84,"label":"VALID","register":false,"rationale":"Adds the missing locative 에 (as REF-2) but leaves the misspelling 윈쪽."}
+{"id":85,"label":"UNNECESSARY","register":false,"rationale":"Only lower-cases an English word; the actual particle error (을 -> 를) is not fixed."}
+{"id":86,"label":"ERROR","register":false,"rationale":"제가 4번입니다 (I am number 4) misreads the fragment (went four times)."}
+{"id":87,"label":"UNNECESSARY","register":false,"rationale":"Inserts an explicit subject 우리는 where Korean naturally leaves it null."}
+{"id":88,"label":"ERROR","register":false,"rationale":"Drops 제일 and changes the meaning to 'get along happily'."}
+{"id":89,"label":"VALID","register":false,"rationale":"친구라고 할까 is the uncontracted equivalent of REF-2's 친구랄까."}
+{"id":90,"label":"ERROR","register":false,"rationale":"Fixes 쏜살처럼 but 빠른 말 (fast words) loses the quotative 빠르다는 말 (the saying that time flies)."}
+{"id":91,"label":"ERROR","register":false,"rationale":"있었기 -> 없었기 negates the proposition."}
+{"id":92,"label":"UNNECESSARY","register":false,"rationale":"Optional comma before 그리고."}
+{"id":93,"label":"GRANULARITY","register":false,"rationale":"월래 -> 원래 is in both references, recorded inside larger edits."}
+{"id":94,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":95,"label":"ERROR","register":false,"rationale":"Intended honorific 계십니다; 게시합니다 (post/publish) is wrong."}
+{"id":96,"label":"ERROR","register":false,"rationale":"'instead of taking the bus' becomes 'took the bus', reversing the meaning."}
+{"id":97,"label":"UNNECESSARY","register":false,"rationale":"이행해야 돼요 and 이행해야 해요 are both correct."}
+{"id":98,"label":"VALID","register":false,"rationale":"The particle 하고 must attach to 수요일; a genuine spacing error both references left."}
+{"id":99,"label":"ERROR","register":false,"rationale":"시함 is 시험 (exam), not 시 (poem); the meaning is changed."}
+{"id":100,"label":"ERROR","register":false,"rationale":"The output appends an arrow and a duplicated sentence; a formatting failure."}
+{"id":101,"label":"VALID","register":false,"rationale":"따는 is an error for 따를; 따르는 gives an acceptable equivalent."}
+{"id":102,"label":"UNNECESSARY","register":false,"rationale":"Optional comma between clauses."}
+{"id":103,"label":"VALID","register":false,"rationale":"의지하다고 is ungrammatical; 의지한다고 is a correct repair (REF-1 left it, REF-2 rephrased)."}
+{"id":104,"label":"ERROR","register":false,"rationale":"Intended 성격 변화가 생길 수가; 성격이 있습니다 loses the meaning."}
+{"id":105,"label":"VALID","register":false,"rationale":"Completes the fragment with a predicate (원한다), as both references add a verb."}
+{"id":106,"label":"ERROR","register":false,"rationale":"Replaces 앉지만 (sit) with 일하지만 (work) instead of fixing the locative/aspect."}
+{"id":107,"label":"ERROR","register":false,"rationale":"어다로 should be 어디로; 어딜로 is nonstandard."}
+{"id":108,"label":"UNNECESSARY","register":false,"rationale":"Optional comma between clauses."}
+{"id":109,"label":"VALID","register":false,"rationale":"잔바 is unintelligible (plausibly 알바, a part-time job); 일 is a plausible repair given the context."}
+{"id":110,"label":"VALID","register":false,"rationale":"친구들 moves towards REF-2's 친구들과, though 같지 is left unrepaired."}
+{"id":111,"label":"ERROR","register":false,"rationale":"Replaces additive 도 with topic 은, losing 'also'; the needed fix (인간의) is missed."}
+{"id":112,"label":"UNNECESSARY","register":true,"rationale":"좋아해요 is correct; 좋아합니다 only shifts the speech level."}
+{"id":113,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":114,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":115,"label":"UNNECESSARY","register":false,"rationale":"부인들이 and 부인들은 are both acceptable here."}
+{"id":116,"label":"UNNECESSARY","register":true,"rationale":"좋아요 is correct; 좋습니다 only shifts the speech level."}
+{"id":117,"label":"UNNECESSARY","register":false,"rationale":"같이 and 함께 are synonyms."}
+{"id":118,"label":"ERROR","register":false,"rationale":"세대 차이와 (and) misstates the relation; the references use 세대 차이로 (due to)."}
+{"id":119,"label":"UNNECESSARY","register":false,"rationale":"Optional comma after a clause."}
+{"id":120,"label":"UNNECESSARY","register":false,"rationale":"The comma after 그런데 is acceptable; removing it is optional (and 임식 is left)."}
+{"id":121,"label":"ERROR","register":false,"rationale":"남편과 (husband and) instead of 남편의 (husband's) changes who was met."}
+{"id":122,"label":"VALID","register":false,"rationale":"수업을 있어요 is ungrammatical; 수업도 있어요 is an acceptable alternative to 수업이."}
+{"id":123,"label":"UNNECESSARY","register":false,"rationale":"Reorders an acceptable adverb-object sequence."}
+{"id":124,"label":"VALID","register":true,"rationale":"Repairs 일 안입니다 as the references do, but in 해요체 (아니에요) instead of 아닙니다."}
+{"id":125,"label":"GRANULARITY","register":false,"rationale":"Same repair as REF-2 (행동함으로써), recorded with a different segmentation."}
+{"id":126,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":127,"label":"VALID","register":false,"rationale":"Fixes 들었든 -> 들었던 and contracts to 힘들었던, an acceptable alternative."}
+{"id":128,"label":"VALID","register":false,"rationale":"Repairs 열심히/결정 spellings and supplies the missing 하기로."}
+{"id":129,"label":"UNNECESSARY","register":false,"rationale":"있죠 is correct; 있어요 is a stylistic alternative."}
+{"id":130,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":131,"label":"UNNECESSARY","register":false,"rationale":"및 is acceptable in a list; 그리고 is a stylistic alternative."}
+{"id":132,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":133,"label":"UNNECESSARY","register":true,"rationale":"내가 is acceptable (REF-2 keeps it); 저는 changes the humility register."}
+{"id":134,"label":"UNNECESSARY","register":false,"rationale":"했지요 is correct; 했어요 is a stylistic alternative."}
+{"id":135,"label":"VALID","register":false,"rationale":"Fixes 걸정 -> 결정 and uses 낼지 as an acceptable alternative to 낼 건지."}
+{"id":136,"label":"ERROR","register":false,"rationale":"속제 is 숙제 (homework); 속이 상하게 (upset) is nonsensical here."}
+{"id":137,"label":"VALID","register":false,"rationale":"Supplies the missing relation with 변호사면 (if a good lawyer), an acceptable alternative to 변호사로."}
+{"id":138,"label":"UNNECESSARY","register":false,"rationale":"Changes ! to . without need (and misses 중용 -> 중요)."}
+{"id":139,"label":"ERROR","register":false,"rationale":"The output appends an arrow and a duplicated sentence; a formatting failure."}
+{"id":140,"label":"UNNECESSARY","register":false,"rationale":"배워요 is correct; the progressive 배우고 있어요 is optional."}
+{"id":141,"label":"GRANULARITY","register":false,"rationale":"Same spacing repair as REF-1 (동숙자하고), which records it together with 저 -> 제."}
+{"id":142,"label":"ERROR","register":false,"rationale":"Fixes the spacing of 에서 but changes the place name Augusta to 어거스트."}
+{"id":143,"label":"ERROR","register":false,"rationale":"Rewrites the clause into a different proposition about whether to hold the party."}
+{"id":144,"label":"ERROR","register":false,"rationale":"예뻐요 is correct; 예쁘어요 is an error."}
+{"id":145,"label":"VALID","register":false,"rationale":"Completes the fragment with a predicate; a plausible alternative to the references' 돕는다."}
+{"id":146,"label":"ERROR","register":false,"rationale":"Fixes 싸요 -> 사- but changes the tense to the past."}
+{"id":147,"label":"UNNECESSARY","register":true,"rationale":"방법은 없어요 is correct; the edit switches to plain 없다 and changes the particle."}
+{"id":148,"label":"ERROR","register":false,"rationale":"Fixes 듣자마자 but replaces 괜히 (for no reason) with 관두고 (quit)."}
+{"id":149,"label":"ERROR","register":false,"rationale":"당풍 is 단풍 (autumn foliage); 태풍 (typhoon) changes the meaning."}
+{"id":150,"label":"UNNECESSARY","register":false,"rationale":"The temporal 에 after 일요일 is optional here."}
+{"id":151,"label":"ERROR","register":false,"rationale":"음억 is 음악; 음어가 is a new error."}
+{"id":152,"label":"VALID","register":false,"rationale":"Replaces the misspelt 다뜻합니다 (따뜻합니다) with the near-synonym 다정합니다."}
+{"id":153,"label":"ERROR","register":false,"rationale":"Fixes the spelling but changes 된장국 (soup) to 된장찌개 (stew)."}
+{"id":154,"label":"VALID","register":false,"rationale":"Fixes 디스카운트 as the references do, with 과 instead of 이랑."}
+{"id":155,"label":"VALID","register":false,"rationale":"데답 is a misspelling of 대답; 답 is an acceptable synonym."}
+{"id":156,"label":"VALID","register":false,"rationale":"진자 is a misspelling of 진짜; 정말 is a synonym."}
+{"id":157,"label":"ERROR","register":false,"rationale":"좋아요 is correct; 좋어요 is an error."}
+{"id":158,"label":"VALID","register":false,"rationale":"Repairs the misplaced 가장 by restructuring to 'the most important element of happiness'."}
+{"id":159,"label":"UNNECESSARY","register":false,"rationale":"선생님의 말씀 is correct; dropping 의 is optional."}
+{"id":160,"label":"VALID","register":true,"rationale":"Repairs 나까 -> 니까 and completes the clause, while adding honorific -시- and humble 저."}
+{"id":161,"label":"UNNECESSARY","register":true,"rationale":"한다 is the essay's plain style; 합니다 only changes the speech level."}
+{"id":162,"label":"ERROR","register":true,"rationale":"Changes 내요 (hand in) to 합니다 (do) and the speech level."}
+{"id":163,"label":"ERROR","register":false,"rationale":"슬퍼서 살 (live because sad) is wrong; the intended form is 슬피/슬프게 살."}
+{"id":164,"label":"ERROR","register":false,"rationale":"Appends meta-commentary about the correction rules."}
+{"id":165,"label":"VALID","register":false,"rationale":"않이라 -> 아니라 fixes the misspelling."}
+{"id":166,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":167,"label":"ERROR","register":false,"rationale":"Deletes the discourse connective 또한 together with the stray quotation mark."}
+{"id":168,"label":"ERROR","register":false,"rationale":"산 적이 있다 is correct; 살 적이 introduces an error."}
+{"id":169,"label":"ERROR","register":false,"rationale":"행동으로 함으로써 is ungrammatical; the references use 행동(을) 함으로써."}
+{"id":170,"label":"VALID","register":false,"rationale":"여행을 보다 is a wrong collocation; 여행을 다니다 repairs it."}
+{"id":171,"label":"UNNECESSARY","register":true,"rationale":"재미있습니다 is correct; 재미있어요 only changes the speech level."}
+{"id":172,"label":"VALID","register":false,"rationale":"하 고 is a broken particle; 친구와 repairs the spacing, which both references left."}
+{"id":173,"label":"VALID","register":false,"rationale":"Supplies the missing antecedent with 그중, an alternative to REF-1's '이 3 가지 중에서'."}
+{"id":174,"label":"VALID","register":false,"rationale":"말이 많이 해요 is ungrammatical; 말이 많아요 is an acceptable alternative to 말을 많이 해요."}
+{"id":175,"label":"ERROR","register":false,"rationale":"선공 is 성공; 선행 changes the meaning."}
+{"id":176,"label":"UNNECESSARY","register":false,"rationale":"그렇지 않아요 is correct; 아니에요 is a paraphrase."}
+{"id":177,"label":"UNNECESSARY","register":false,"rationale":"Optional comma between clauses."}
+{"id":178,"label":"ERROR","register":false,"rationale":"엎 is 옆 (next to); 위에 (above) changes the meaning."}
+{"id":179,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":180,"label":"UNNECESSARY","register":false,"rationale":"Optional comma between clauses."}
+{"id":181,"label":"GRANULARITY","register":false,"rationale":"Combines REF-1's 우리는 and REF-2's 보스턴 into one edit; both components are reference-supported."}
+{"id":182,"label":"UNNECESSARY","register":true,"rationale":"살아요 is correct; the edit adds the progressive and switches to 합쇼체."}
+{"id":183,"label":"VALID","register":false,"rationale":"Fixes the detached particle (경험 이), using topic 은 instead of 이."}
+{"id":184,"label":"VALID","register":false,"rationale":"The standard spelling of the loanword is 상트페테르부르크 without a space."}
+{"id":185,"label":"ERROR","register":false,"rationale":"Drops '가 있다면 ... 때도', changing the meaning of the clause."}
+{"id":186,"label":"VALID","register":false,"rationale":"Repairs the garbled '행복을 하나로' into '행복에 (영향을 주다)', a plausible correction."}
+{"id":187,"label":"UNNECESSARY","register":false,"rationale":"싫어서 and 싫어 are both acceptable connectives."}
+{"id":188,"label":"ERROR","register":false,"rationale":"밤세 is 밤새 (all night); 밤에 (at night) changes the meaning."}
+{"id":189,"label":"UNNECESSARY","register":false,"rationale":"하고 is a correct conjunctive particle; 과 is a stylistic alternative."}
+{"id":190,"label":"VALID","register":false,"rationale":"만큼 after an adnominal verb form is a bound noun written with a space."}
+{"id":191,"label":"UNNECESSARY","register":false,"rationale":"한국말 and 한국어 are synonyms."}
+{"id":192,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":193,"label":"VALID","register":true,"rationale":"Fixes the spacing 달려 있다 but also shifts to 합쇼체."}
+{"id":194,"label":"VALID","register":true,"rationale":"안녕하습니까 is wrong; 안녕하세요 is a valid greeting but in a different speech level from REF-2's 안녕하십니까."}
+{"id":195,"label":"VALID","register":false,"rationale":"Replaces the detached conjunctive 하고 with a comma list, an acceptable alternative to attaching 하고."}
+{"id":196,"label":"ERROR","register":false,"rationale":"생활이 어떻게 있습니까 is ungrammatical; the references use 생활을 어떻게 하(고 있)습니까."}
+{"id":197,"label":"ERROR","register":false,"rationale":"질길 is 즐길 (enjoy); 질 (lose) changes the meaning."}
+{"id":198,"label":"UNNECESSARY","register":false,"rationale":"이랑 is correct; 과 is a stylistic alternative."}
+{"id":199,"label":"VALID","register":false,"rationale":"늘려졌어요 is wrong; 늘어났어요 is an acceptable alternative to the references' 늘었어요."}
+{"id":200,"label":"VALID","register":false,"rationale":"끝나서 invites a causal reading; sequential 끝나고 is an acceptable alternative to REF-2's 끝나면."}
+{"id":201,"label":"ERROR","register":false,"rationale":"또같은 is 똑같은; 또 같은 (again the same) is wrong."}
+{"id":202,"label":"VALID","register":false,"rationale":"Essentially REF-2's repair (공부할 생각이었지만) with 는 dropped and a comma added."}
+{"id":203,"label":"VALID","register":false,"rationale":"Restructures the detached 정도 하고 into a grammatical coordinate clause."}
+{"id":204,"label":"ERROR","register":false,"rationale":"굴무면서도 is 굶으면서도 (while starving); 굴러가면서도 (while rolling) is wrong."}
+{"id":205,"label":"UNNECESSARY","register":false,"rationale":"The topic marker 는 after 고향에 is optional."}
+{"id":206,"label":"ERROR","register":false,"rationale":"회사를 차리다 needs 를; 회사에 with the unrepaired 자리고 is wrong."}
+{"id":207,"label":"VALID","register":false,"rationale":"Fixes the 를 ... 전시가 됩니다 mismatch with passive 전시됩니다, an alternative to REF-2's 전시합니다."}
+{"id":208,"label":"ERROR","register":false,"rationale":"Drops 제일 (most) instead of correcting its spelling."}
+{"id":209,"label":"ERROR","register":false,"rationale":"관련도 있어요 asserts a relation where REF-1 reads 'not related'."}
+{"id":210,"label":"ERROR","register":false,"rationale":"가면 -> 만나면 changes 'go (to places)' into 'meet people'."}
+{"id":211,"label":"VALID","register":false,"rationale":"아침에 supplies the temporal particle expected in written Korean."}
+{"id":212,"label":"ERROR","register":false,"rationale":"색알 is 색깔 (colour); 핑크색 알 (pink egg) is wrong."}
+{"id":213,"label":"UNNECESSARY","register":false,"rationale":"좋았을 걸 is correct; 텐데 is an alternative."}
+{"id":214,"label":"ERROR","register":true,"rationale":"Drops the name 서 and changes 한테 to honorific 께."}
+{"id":215,"label":"ERROR","register":false,"rationale":"Replaces 'trying to eat properly' with 'exercising hard'."}
+{"id":216,"label":"ERROR","register":false,"rationale":"나쁜 사람은 makes the bad people the topic; the references use 나쁜 사람과 (with)."}
+{"id":217,"label":"ERROR","register":false,"rationale":"Deletes '행복도 많아진다' (one's own happiness grows), changing the claim."}
+{"id":218,"label":"ERROR","register":false,"rationale":"Deletes 같이 (together), removing content from the instruction."}
+{"id":219,"label":"UNNECESSARY","register":false,"rationale":"우리 성격 is correct; 의 is optional."}
+{"id":220,"label":"GRANULARITY","register":false,"rationale":"Same copula attachment as REF-1, which records it together with the inserted 첫 번째."}
+{"id":221,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":222,"label":"VALID","register":false,"rationale":"서두렀어요 is wrong; 서투르게 했어요 is an acceptable alternative to 서툴렀어요."}
+{"id":223,"label":"VALID","register":false,"rationale":"Repairs the double locative with 서울에 있는 회사의 일, an alternative to the references."}
+{"id":224,"label":"VALID","register":false,"rationale":"Removes the stray comma before the conjunctive 하고."}
+{"id":225,"label":"GRANULARITY","register":false,"rationale":"Same spacing repair (포기했습니다) as both references, merged with the attached quotation mark."}
+{"id":226,"label":"VALID","register":false,"rationale":"명소로는 is an acceptable alternative to REF-2's 명소 하면, with the spacing of Sears 탑 fixed."}
+{"id":227,"label":"ERROR","register":false,"rationale":"귱부 is 공부; 열심히 합니다 drops 'study'."}
+{"id":228,"label":"ERROR","register":false,"rationale":"있지면 is 있지만 (but); 있다면 (if) changes the meaning."}
+{"id":229,"label":"UNNECESSARY","register":false,"rationale":"Optional comma before 그리고."}
+{"id":230,"label":"UNNECESSARY","register":false,"rationale":"이랑 is correct; 과 is a stylistic alternative."}
+{"id":231,"label":"UNNECESSARY","register":false,"rationale":"무시하든 is acceptable (REF-1 keeps it); 무시하거나 is an alternative."}
+{"id":232,"label":"ERROR","register":false,"rationale":"Adds '정말 많았어요' (there were really many), content the learner did not express."}
+{"id":233,"label":"VALID","register":false,"rationale":"쯤 is a suffix written without a space; the numeral change to 4 is stylistic."}
+{"id":234,"label":"UNNECESSARY","register":true,"rationale":"같아요 is correct; 같습니다 only shifts the speech level."}
+{"id":235,"label":"UNNECESSARY","register":false,"rationale":"춥지요 is correct; adding conjectural 겠 is optional."}
+{"id":236,"label":"ERROR","register":false,"rationale":"Deleting 년 leaves 많이 살고 (live a lot), losing 'for many years'."}
+{"id":237,"label":"ERROR","register":false,"rationale":"제일 역사가 does not repair the garbled phrase."}
+{"id":238,"label":"VALID","register":false,"rationale":"친짜 -> 정말 repairs the misspelt 진짜 with a synonym (dropping the plural is optional)."}
+{"id":239,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":240,"label":"UNNECESSARY","register":false,"rationale":"Non-past 하고 is acceptable in the coordinate clause; 했고 plus comma is optional."}
+{"id":241,"label":"UNNECESSARY","register":true,"rationale":"많아요 is correct; 많습니다 only shifts the speech level."}
+{"id":242,"label":"VALID","register":false,"rationale":"Fixes 데답 -> 대답 and uses 예상되는, an acceptable alternative."}
+{"id":243,"label":"ERROR","register":false,"rationale":"속제 is 숙제 (homework); 주제 (topic) is wrong."}
+{"id":244,"label":"ERROR","register":false,"rationale":"Deletes 진짜 (real) instead of correcting its spelling."}
+{"id":245,"label":"GRANULARITY","register":false,"rationale":"Same copula attachment as REF-2, which records it together with 이 -> 2."}
+{"id":246,"label":"ERROR","register":false,"rationale":"그거예요 does not repair the garbled clause."}
+{"id":247,"label":"UNNECESSARY","register":false,"rationale":"여자 친구 with a space is acceptable."}
+{"id":248,"label":"VALID","register":false,"rationale":"Supplies the missing verb with 전달하는, an alternative to REF-1's 전할 수 있어서."}
+{"id":249,"label":"UNNECESSARY","register":false,"rationale":"하니까 is acceptable; 병행하니까 adds a nuance."}
+{"id":250,"label":"UNNECESSARY","register":false,"rationale":"Replaces a repeated noun phrase with the pronoun 그; the original was acceptable."}
+{"id":251,"label":"ERROR","register":false,"rationale":"Inserting 것은 changes the fragment into 'what I saw is a foreign country'."}
+{"id":252,"label":"VALID","register":false,"rationale":"Fixes the misspelling 한굴 -> 한글, though it misses the particle 로."}
+{"id":253,"label":"UNNECESSARY","register":false,"rationale":"Optional comma between clauses."}
+{"id":254,"label":"ERROR","register":false,"rationale":"Fixes 소식을 듣고 but 싶을 데요 is ungrammatical (싶은데요/싶을 텐데)."}
+{"id":255,"label":"UNNECESSARY","register":false,"rationale":"할 거예요 is correct; 하려고 해요 changes future to intention."}
+{"id":256,"label":"VALID","register":false,"rationale":"Supplies 로 인한 ... 의 as REF-2 does, differing only in the spacing of 세대차이."}
+{"id":257,"label":"VALID","register":false,"rationale":"Fixes 해야 할 and 예기 -> 이야기, with 한테 -> 에게 as a stylistic change."}
+{"id":258,"label":"UNNECESSARY","register":false,"rationale":"엄마랑 is correct; 엄마와 is a stylistic alternative."}
+{"id":259,"label":"GRANULARITY","register":false,"rationale":"Same repair as REF-1 (달에는), which merges it with an inserted phrase."}
+{"id":260,"label":"UNNECESSARY","register":false,"rationale":"있죠 is correct; 있어요 is a stylistic alternative."}
+{"id":261,"label":"ERROR","register":false,"rationale":"Swapping to 장르의 영화마다 garbles an acceptable phrase."}
+{"id":262,"label":"ERROR","register":false,"rationale":"이유와 (and) is wrong; the intended relation is 이유로 (for these reasons)."}
+{"id":263,"label":"ERROR","register":false,"rationale":"섀이퍼 is a place name (Shafer); 셰어하우스 changes the referent."}
+{"id":264,"label":"VALID","register":false,"rationale":"Completes the fragment with a predicate, as REF-2 does (갔습니다)."}
+{"id":265,"label":"UNNECESSARY","register":false,"rationale":"Changes only acceptable spacing while missing the particle error (은 -> 을)."}
+{"id":266,"label":"VALID","register":false,"rationale":"The copula must attach (음악가입니다); a genuine spacing error both references left."}
+{"id":267,"label":"VALID","register":false,"rationale":"Removes the wrong subject particle on the object, acceptable colloquially (REF-2 uses 을)."}
+{"id":268,"label":"ERROR","register":false,"rationale":"'us' is a typo for 쉽; 유저하고 (user) is nonsensical."}
+{"id":269,"label":"VALID","register":true,"rationale":"조심하싶시요 is wrong; 조심하세요 is valid but in 해요체 instead of 하십시오."}
+{"id":270,"label":"VALID","register":false,"rationale":"Repairs the missing nominaliser with 것 같다, close to REF-2's 것으로 예상한다."}
+{"id":271,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":272,"label":"UNNECESSARY","register":false,"rationale":"Optional comma between clauses."}
+{"id":273,"label":"ERROR","register":false,"rationale":"Adds 선선하다 (breezy), content the learner did not express."}
+{"id":274,"label":"ERROR","register":false,"rationale":"Translates the film title and adds 갈, producing an incoherent clause."}
+{"id":275,"label":"ERROR","register":false,"rationale":"슬퍼서 살 (live because sad) is wrong; the intended form is 슬피/슬프게 살."}
+{"id":276,"label":"ERROR","register":false,"rationale":"Fixes 한국말을 but 못 알아서 is unidiomatic for 몰라서 (did not know)."}
+{"id":277,"label":"UNNECESSARY","register":false,"rationale":"Optional appositive comma."}
+{"id":278,"label":"UNNECESSARY","register":false,"rationale":"Dropping 시 is stylistic; the actual error (하루에서) is not fixed."}
+{"id":279,"label":"ERROR","register":false,"rationale":"듯고 is 듣고 (hear); 같고 (same) is wrong."}
+{"id":280,"label":"ERROR","register":false,"rationale":"Inserts the leaked prompt label '문장 :' together with a stylistic change."}
+{"id":281,"label":"UNNECESSARY","register":true,"rationale":"쓸게요 is a correct closing; 마치겠습니다 changes the verb and the speech level."}
+{"id":282,"label":"ERROR","register":false,"rationale":"조심하고 싶시요 remains ungrammatical."}
+{"id":283,"label":"VALID","register":false,"rationale":"색갈 is a misspelling of 색깔; 색 is a synonym."}
+{"id":284,"label":"ERROR","register":false,"rationale":"Interprets the garbled form as past honorific, unlike the references' future/imperative readings."}
+{"id":285,"label":"UNNECESSARY","register":true,"rationale":"알아야죠 is correct; 알아야 합니다 changes the speech level and nuance."}
+{"id":286,"label":"UNNECESSARY","register":false,"rationale":"친구들이 and 친구들은 are both acceptable."}
+{"id":287,"label":"UNNECESSARY","register":true,"rationale":"좋아요 is correct; 좋습니다 only shifts the speech level."}
+{"id":288,"label":"ERROR","register":false,"rationale":"그레서 should be 그래서; 그러서 is wrong."}
+{"id":289,"label":"VALID","register":false,"rationale":"Repairs 키로 이였으며 as 20km였으며, an acceptable alternative to 20킬로였으며."}
+{"id":290,"label":"GRANULARITY","register":false,"rationale":"REF-2 also removes the stray quotation mark, within a larger rewrite."}
+{"id":291,"label":"UNNECESSARY","register":true,"rationale":"들어요 is correct; 듣습니다 only shifts the speech level."}
+{"id":292,"label":"ERROR","register":false,"rationale":"Reorders the clauses, reversing the sequence of exercising and eating breakfast."}
+{"id":293,"label":"GRANULARITY","register":false,"rationale":"REF-2 makes the same spacing change (달려 있다), recorded together with the adjacent 마음먹기에."}
+{"id":294,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":295,"label":"UNNECESSARY","register":true,"rationale":"Only shifts plain 없었다 to 없었습니다; the garbled content is not repaired."}
+{"id":296,"label":"UNNECESSARY","register":false,"rationale":"드리도록 하겠습니다 is correct; the simplification is stylistic."}
+{"id":297,"label":"VALID","register":false,"rationale":"Supplies the missing particle with 도, parallel to 방향도/이유도 (REF-2 uses 가)."}
+{"id":298,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}
+{"id":299,"label":"VALID","register":false,"rationale":"Adds the object particle 를 as REF-2 does, with 다 -> 모두 as a synonym."}
+{"id":300,"label":"GRANULARITY","register":false,"rationale":"Both references make the same spacing repair (산더미처럼), merged with the adjacent particle change."}
+{"id":301,"label":"ERROR","register":false,"rationale":"승진시키는 (promote others) changes the meaning."}
+{"id":302,"label":"UNNECESSARY","register":false,"rationale":"Optional comma between clauses."}
+{"id":303,"label":"ERROR","register":false,"rationale":"Leaked prompt label '문장 :' inserted into the sentence."}

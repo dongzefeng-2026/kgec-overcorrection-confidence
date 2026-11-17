@@ -1,0 +1,38 @@
+{
+ "n_sentences": 1418,
+ "linked": 1270,
+ "linked_rate": 0.8956276445698167,
+ "by_method": {
+  "exact": 823,
+  "order": 229,
+  "substring": 117,
+  "none": 148,
+  "fuzzy": 101
+ },
+ "n_linked_essays": 92,
+ "n_unlinked_clusters": 20,
+ "unlinked_cluster_sizes": [
+  33,
+  24,
+  20,
+  16,
+  15,
+  10,
+  9,
+  7,
+  2,
+  2,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1
+ ],
+ "n_clusters": 112,
+ "n_noedit_kept": 241
+}

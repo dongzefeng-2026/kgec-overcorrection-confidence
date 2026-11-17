@@ -1,0 +1,8 @@
+K-intelligence/Midm-2.0-Base-Instruct 35479c5fc9a18a5db7cc6dbadcf1db68db7beab0 2025-10-29 23.1GB gated=False
+kakaocorp/kanana-1.5-8b-instruct-2505 c963a5f4f6496c749f94064a20b33028b0db9f19 2025-05-22 16.1GB gated=False
+skt/A.X-4.0-Light ba21c20ea1b31ded1ec3e2fb432335077dc4be98 2025-07-23 14.5GB gated=False
+LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct 553ea250b9a5317231459279d5847d6cf955b9aa 2026-02-06 31.3GB gated=False
+naver-hyperclovax/HyperCLOVAX-SEED-Text-Instruct-1.5B 0728a47d632019a8da5f53b663db1c175dc04115 2025-10-02 3.2GB gated=auto
+Qwen/Qwen3-8B b968826d9c46dd6066d109eabc6255188de91218 2025-07-26 0.0GB gated=False
+Qwen/Qwen3-14B 40c069824f4251a91eefaf281ebe4c544efd3e18 2025-07-26 29.6GB gated=False
+Qwen/Qwen3-32B 9216db5781bf21249d130ec9da846c4624c16137 2025-07-26 65.5GB gated=False

@@ -1,0 +1,33 @@
+{
+  "title": "Code and data for: Over-correction and confidence in prompted language models for Korean grammatical error correction",
+  "upload_type": "software",
+  "version": "v1.0.0",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Feng, Dongze",
+      "affiliation": "Qingdao Hengxing University of Science and Technology"
+    }
+  ],
+  "description": "<p>Code, model outputs and analysis results accompanying the article <em>Over-correction and confidence in prompted language models for Korean grammatical error correction: An exploratory evaluation on second-language and heritage learner writing</em> (PLOS ONE, under review, PONE-D-26-44963).</p><p>Contents: code for inference, output parsing, scoring (wrappers around the official M² scorer and GLEU), statistics and figures; all model outputs on KoLLA v2 (greedy and ten sampled corrections, token log-probabilities and self-ratings) for sixteen configurations and a no-op baseline; the corpus audit rules and exclusions; all evaluation results; 304 reviewed edits with the labels and rationales of two LLM judges; and the construction rules, line numbers and aggregate results of the Kor-Lang8 external check.</p><p>Kor-Lang8 sentence pairs and the model outputs on them are third-party material and are not included; the README explains how to obtain them and rebuild the evaluation set.</p>",
+  "notes": "Licences: code under MIT; model outputs, labels and results under CC BY 4.0; KoLLA v2 text contained in the outputs under the corpus's GPL-3.0 licence.",
+  "keywords": [
+    "Korean grammatical error correction",
+    "large language models",
+    "over-correction",
+    "confidence calibration",
+    "selective prediction",
+    "KoLLA",
+    "second-language writing",
+    "heritage learners"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.15287129",
+      "relation": "isDerivedFrom",
+      "scheme": "doi",
+      "resource_type": "dataset"
+    }
+  ]
+}

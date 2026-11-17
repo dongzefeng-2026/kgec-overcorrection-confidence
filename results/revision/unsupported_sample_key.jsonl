@@ -1,0 +1,304 @@
+{"id": 0, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 871, "start": 0, "end": 2, "corr": "예술적인 일을", "conf": 0.3, "type": "Lexical choice"}
+{"id": 1, "config": "Qwen3-8B (0-shot)", "sent_id": 531, "start": 10, "end": 10, "corr": ",", "conf": 0.9, "type": "Punctuation"}
+{"id": 2, "config": "Qwen3-14B (0-shot)", "sent_id": 718, "start": 7, "end": 8, "corr": "놀**고** .", "conf": 0.8, "type": "Lexical choice"}
+{"id": 3, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 1038, "start": 3, "end": 5, "corr": "직접 사 먹어", "conf": 0.6, "type": "Multi-word rewrite"}
+{"id": 4, "config": "Midm-2.0 (0-shot)", "sent_id": 1393, "start": 3, "end": 4, "corr": "후에", "conf": 0.1, "type": "Particle"}
+{"id": 5, "config": "A.X-4.0-Light (4-shot)", "sent_id": 704, "start": 0, "end": 2, "corr": "세월은 쏜살같이 가지요", "conf": 0.3, "type": "Spelling"}
+{"id": 6, "config": "Qwen3-32B (0-shot)", "sent_id": 1271, "start": 6, "end": 6, "corr": "→ 이런 사람은 일을 승진시키는 사람이다 .", "conf": 0.0, "type": "Insertion/deletion"}
+{"id": 7, "config": "A.X-4.0-Light (0-shot)", "sent_id": 1354, "start": 9, "end": 11, "corr": "정체성을 지키는", "conf": 0.9, "type": "Lexical choice"}
+{"id": 8, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 1369, "start": 3, "end": 4, "corr": "한국과", "conf": 0.9, "type": "Particle"}
+{"id": 9, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 397, "start": 14, "end": 16, "corr": "친하게 지내는지", "conf": 0.1, "type": "Lexical choice"}
+{"id": 10, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 1177, "start": 0, "end": 0, "corr": "문장 :", "conf": 0.3, "type": "Insertion/deletion"}
+{"id": 11, "config": "Qwen3-14B (4-shot)", "sent_id": 560, "start": 3, "end": 4, "corr": "좋아할 수 있을 것입니다", "conf": 0.5, "type": "Multi-word rewrite"}
+{"id": 12, "config": "Qwen3-32B (0-shot)", "sent_id": 633, "start": 7, "end": 8, "corr": "기울을", "conf": 0.4, "type": "Spelling"}
+{"id": 13, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 153, "start": 1, "end": 2, "corr": "센터 앞", "conf": 0.8, "type": "Spelling"}
+{"id": 14, "config": "A.X-4.0-Light (4-shot)", "sent_id": 1302, "start": 3, "end": 5, "corr": "경험해", "conf": 0.5, "type": "Particle"}
+{"id": 15, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 1119, "start": 1, "end": 4, "corr": "쇼핑을 좋아해요", "conf": 0.4, "type": "Multi-word rewrite"}
+{"id": 16, "config": "A.X-4.0-Light (4-shot)", "sent_id": 1401, "start": 4, "end": 5, "corr": "없지만", "conf": 0.7, "type": "Lexical choice"}
+{"id": 17, "config": "Qwen3-8B (0-shot)", "sent_id": 1045, "start": 0, "end": 1, "corr": "포기", "conf": 0.4, "type": "Lexical choice"}
+{"id": 18, "config": "Midm-2.0 (4-shot)", "sent_id": 439, "start": 2, "end": 3, "corr": "결혼하겠다고", "conf": 0.2, "type": "Ending"}
+{"id": 19, "config": "Midm-2.0 (4-shot)", "sent_id": 1004, "start": 0, "end": 2, "corr": "식사하기", "conf": 1.0, "type": "Spacing"}
+{"id": 20, "config": "Qwen3-32B (4-shot)", "sent_id": 1316, "start": 3, "end": 5, "corr": "운동할", "conf": 0.5, "type": "Spacing"}
+{"id": 21, "config": "Qwen3-32B (4-shot)", "sent_id": 776, "start": 2, "end": 3, "corr": "끓일 때", "conf": 1.0, "type": "Lexical choice"}
+{"id": 22, "config": "Qwen3-14B (4-shot)", "sent_id": 397, "start": 14, "end": 15, "corr": "친하게", "conf": 0.7, "type": "Lexical choice"}
+{"id": 23, "config": "Qwen3-14B (4-shot)", "sent_id": 992, "start": 2, "end": 2, "corr": "해요", "conf": 0.7, "type": "Insertion/deletion"}
+{"id": 24, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 796, "start": 0, "end": 0, "corr": "문장 :", "conf": 0.6, "type": "Insertion/deletion"}
+{"id": 25, "config": "Qwen3-14B (4-shot)", "sent_id": 749, "start": 3, "end": 4, "corr": "썰고", "conf": 0.3, "type": "Lexical choice"}
+{"id": 26, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 1128, "start": 0, "end": 0, "corr": "문장 :", "conf": 0.4, "type": "Insertion/deletion"}
+{"id": 27, "config": "A.X-4.0-Light (0-shot)", "sent_id": 326, "start": 2, "end": 3, "corr": "춥습니다", "conf": 1.0, "type": "Ending"}
+{"id": 28, "config": "A.X-4.0-Light (0-shot)", "sent_id": 842, "start": 4, "end": 4, "corr": "**않다**", "conf": 0.1, "type": "Insertion/deletion"}
+{"id": 29, "config": "Midm-2.0 (4-shot)", "sent_id": 1392, "start": 6, "end": 6, "corr": ".", "conf": 0.1, "type": "Punctuation"}
+{"id": 30, "config": "A.X-4.0-Light (0-shot)", "sent_id": 506, "start": 4, "end": 6, "corr": "유명해졌습니다", "conf": 0.9, "type": "Lexical choice"}
+{"id": 31, "config": "Qwen3-14B (4-shot)", "sent_id": 791, "start": 4, "end": 5, "corr": "올라가요", "conf": 0.9, "type": "Ending"}
+{"id": 32, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 1139, "start": 1, "end": 2, "corr": "북경과", "conf": 1.0, "type": "Particle"}
+{"id": 33, "config": "Qwen3-8B (4-shot)", "sent_id": 420, "start": 3, "end": 4, "corr": "끝냈다", "conf": 0.9, "type": "Ending"}
+{"id": 34, "config": "Qwen3-14B (0-shot)", "sent_id": 371, "start": 7, "end": 7, "corr": "있습니다", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 35, "config": "Qwen3-14B (4-shot)", "sent_id": 825, "start": 0, "end": 2, "corr": "마시는", "conf": 1.0, "type": "Spelling"}
+{"id": 36, "config": "Qwen3-32B (4-shot)", "sent_id": 474, "start": 1, "end": 5, "corr": "도시에서는", "conf": 1.0, "type": "Spacing"}
+{"id": 37, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 409, "start": 0, "end": 1, "corr": "고마움을 표현하기가", "conf": 0.7, "type": "Lexical choice"}
+{"id": 38, "config": "Qwen3-32B (0-shot)", "sent_id": 1206, "start": 1, "end": 2, "corr": "공부 방법에", "conf": 0.7, "type": "Spelling"}
+{"id": 39, "config": "Qwen3-32B (0-shot)", "sent_id": 362, "start": 1, "end": 2, "corr": "이십", "conf": 0.4, "type": "Spelling"}
+{"id": 40, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 266, "start": 2, "end": 4, "corr": "부모님과", "conf": 0.8, "type": "Particle"}
+{"id": 41, "config": "A.X-4.0-Light (0-shot)", "sent_id": 393, "start": 14, "end": 15, "corr": "친밀한", "conf": 0.3, "type": "Lexical choice"}
+{"id": 42, "config": "Qwen3-14B (0-shot)", "sent_id": 1022, "start": 2, "end": 3, "corr": "그런답니다", "conf": 0.1, "type": "Spelling"}
+{"id": 43, "config": "Qwen3-32B (0-shot)", "sent_id": 752, "start": 1, "end": 13, "corr": "냄비에 고추장과 설탕과 잘린 생강과 간장과 고춧가루와", "conf": 0.3, "type": "Spelling"}
+{"id": 44, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 1232, "start": 5, "end": 6, "corr": "지나면서", "conf": 0.5, "type": "Lexical choice"}
+{"id": 45, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 460, "start": 4, "end": 5, "corr": "", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 46, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 896, "start": 0, "end": 1, "corr": "지난", "conf": 0.8, "type": "Spelling"}
+{"id": 47, "config": "A.X-4.0-Light (4-shot)", "sent_id": 531, "start": 16, "end": 18, "corr": "놀았습니다", "conf": 0.4, "type": "Lexical choice"}
+{"id": 48, "config": "A.X-4.0-Light (0-shot)", "sent_id": 593, "start": 4, "end": 5, "corr": "변화시킵니다", "conf": 0.8, "type": "Lexical choice"}
+{"id": 49, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 647, "start": 6, "end": 8, "corr": "국립공원에", "conf": 0.8, "type": "Spacing"}
+{"id": 50, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 1175, "start": 1, "end": 4, "corr": "행복해지기 위해 노력하니", "conf": 0.1, "type": "Multi-word rewrite"}
+{"id": 51, "config": "Qwen3-14B (4-shot)", "sent_id": 953, "start": 2, "end": 4, "corr": "열어", "conf": 0.6, "type": "Lexical choice"}
+{"id": 52, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 3, "start": 2, "end": 3, "corr": "화분", "conf": 0.5, "type": "Lexical choice"}
+{"id": 53, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 1401, "start": 2, "end": 5, "corr": "와서 받은 점수는 없지만", "conf": 0.4, "type": "Multi-word rewrite"}
+{"id": 54, "config": "A.X-4.0-Light (4-shot)", "sent_id": 1251, "start": 3, "end": 6, "corr": "진지했습니다", "conf": 0.5, "type": "Multi-word rewrite"}
+{"id": 55, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 545, "start": 9, "end": 10, "corr": "봐요", "conf": 0.2, "type": "Ending"}
+{"id": 56, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 89, "start": 1, "end": 2, "corr": "매일", "conf": 0.6, "type": "Lexical choice"}
+{"id": 57, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 1348, "start": 1, "end": 2, "corr": "나에게", "conf": 0.9, "type": "Lexical choice"}
+{"id": 58, "config": "Qwen3-14B (0-shot)", "sent_id": 792, "start": 7, "end": 7, "corr": ",", "conf": 1.0, "type": "Punctuation"}
+{"id": 59, "config": "Qwen3-32B (0-shot)", "sent_id": 111, "start": 0, "end": 1, "corr": "조지아에", "conf": 0.5, "type": "Particle"}
+{"id": 60, "config": "Qwen3-8B (4-shot)", "sent_id": 966, "start": 1, "end": 4, "corr": "부엌에", "conf": 1.0, "type": "Spelling"}
+{"id": 61, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 913, "start": 0, "end": 0, "corr": "문장 :", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 62, "config": "Qwen3-32B (0-shot)", "sent_id": 193, "start": 3, "end": 4, "corr": "*Inception*이", "conf": 0.9, "type": "Spelling"}
+{"id": 63, "config": "A.X-4.0-Light (0-shot)", "sent_id": 1342, "start": 2, "end": 4, "corr": "아름답다고 합니다", "conf": 0.3, "type": "Spelling"}
+{"id": 64, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 487, "start": 2, "end": 3, "corr": "노력하고 ,", "conf": 0.4, "type": "Ending"}
+{"id": 65, "config": "Qwen3-8B (4-shot)", "sent_id": 1049, "start": 1, "end": 1, "corr": ",", "conf": 1.0, "type": "Punctuation"}
+{"id": 66, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 1170, "start": 0, "end": 1, "corr": "저에게는", "conf": 0.7, "type": "Particle"}
+{"id": 67, "config": "A.X-4.0-Light (4-shot)", "sent_id": 529, "start": 16, "end": 16, "corr": "아이를", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 68, "config": "Qwen3-8B (4-shot)", "sent_id": 680, "start": 8, "end": 9, "corr": "", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 69, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 436, "start": 6, "end": 7, "corr": "했고", "conf": 0.6, "type": "Ending"}
+{"id": 70, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 858, "start": 8, "end": 9, "corr": "가서도", "conf": 0.3, "type": "Particle"}
+{"id": 71, "config": "A.X-4.0-Light (4-shot)", "sent_id": 1266, "start": 0, "end": 2, "corr": "가정에", "conf": 0.9, "type": "Lexical choice"}
+{"id": 72, "config": "Qwen3-32B (4-shot)", "sent_id": 199, "start": 5, "end": 6, "corr": "같아요", "conf": 0.5, "type": "Ending"}
+{"id": 73, "config": "Midm-2.0 (0-shot)", "sent_id": 39, "start": 1, "end": 2, "corr": "2개의", "conf": 0.4, "type": "Particle"}
+{"id": 74, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 911, "start": 0, "end": 2, "corr": "여덟 시쯤에 일어나", "conf": 0.2, "type": "Spelling"}
+{"id": 75, "config": "Midm-2.0 (4-shot)", "sent_id": 1018, "start": 2, "end": 6, "corr": "버릇인 줄 알지만", "conf": 0.9, "type": "Spelling"}
+{"id": 76, "config": "Qwen3-8B (4-shot)", "sent_id": 353, "start": 2, "end": 2, "corr": ", Minnesota였습니다", "conf": 0.9, "type": "Insertion/deletion"}
+{"id": 77, "config": "Qwen3-32B (4-shot)", "sent_id": 517, "start": 6, "end": 7, "corr": "바뀌어진", "conf": 0.8, "type": "Spelling"}
+{"id": 78, "config": "Qwen3-8B (0-shot)", "sent_id": 525, "start": 7, "end": 8, "corr": "바뀌지지", "conf": 1.0, "type": "Spelling"}
+{"id": 79, "config": "Qwen3-8B (0-shot)", "sent_id": 480, "start": 3, "end": 4, "corr": "한글도", "conf": 0.5, "type": "Spelling"}
+{"id": 80, "config": "Qwen3-14B (4-shot)", "sent_id": 254, "start": 1, "end": 3, "corr": "지어지아에서", "conf": 1.0, "type": "Spacing"}
+{"id": 81, "config": "Midm-2.0 (0-shot)", "sent_id": 389, "start": 9, "end": 10, "corr": "꽤나", "conf": 0.6, "type": "Lexical choice"}
+{"id": 82, "config": "Midm-2.0 (0-shot)", "sent_id": 911, "start": 0, "end": 2, "corr": "여덟 시에 일이 나서", "conf": 0.8, "type": "Spacing"}
+{"id": 83, "config": "Midm-2.0 (4-shot)", "sent_id": 849, "start": 6, "end": 6, "corr": "구경하는 게", "conf": 0.7, "type": "Insertion/deletion"}
+{"id": 84, "config": "Qwen3-8B (0-shot)", "sent_id": 48, "start": 1, "end": 2, "corr": "윈쪽에", "conf": 0.5, "type": "Particle"}
+{"id": 85, "config": "Qwen3-32B (4-shot)", "sent_id": 449, "start": 7, "end": 8, "corr": "nightlife을", "conf": 0.7, "type": "Spelling"}
+{"id": 86, "config": "A.X-4.0-Light (4-shot)", "sent_id": 677, "start": 1, "end": 2, "corr": "4번입니다", "conf": 0.8, "type": "Lexical choice"}
+{"id": 87, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 37, "start": 0, "end": 0, "corr": "우리는", "conf": 0.5, "type": "Insertion/deletion"}
+{"id": 88, "config": "Midm-2.0 (4-shot)", "sent_id": 795, "start": 2, "end": 4, "corr": "재미있게 지냅니다", "conf": 0.2, "type": "Lexical choice"}
+{"id": 89, "config": "Qwen3-32B (0-shot)", "sent_id": 387, "start": 13, "end": 14, "corr": "친구라고 할까", "conf": 0.9, "type": "Lexical choice"}
+{"id": 90, "config": "A.X-4.0-Light (0-shot)", "sent_id": 1178, "start": 2, "end": 6, "corr": "쏜살처럼 빠른", "conf": 0.4, "type": "Spelling"}
+{"id": 91, "config": "Midm-2.0 (0-shot)", "sent_id": 706, "start": 4, "end": 5, "corr": "없었기", "conf": 0.6, "type": "Spelling"}
+{"id": 92, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 1340, "start": 6, "end": 6, "corr": ",", "conf": 0.7, "type": "Punctuation"}
+{"id": 93, "config": "Midm-2.0 (0-shot)", "sent_id": 429, "start": 3, "end": 4, "corr": "원래", "conf": 0.9, "type": "Spelling"}
+{"id": 94, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 1235, "start": 0, "end": 0, "corr": "문장 :", "conf": 0.8, "type": "Insertion/deletion"}
+{"id": 95, "config": "Qwen3-14B (0-shot)", "sent_id": 109, "start": 3, "end": 4, "corr": "게시합니다", "conf": 0.8, "type": "Spelling"}
+{"id": 96, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 1317, "start": 2, "end": 6, "corr": "마을버스를 타고", "conf": 1.0, "type": "Multi-word rewrite"}
+{"id": 97, "config": "A.X-4.0-Light (0-shot)", "sent_id": 1208, "start": 11, "end": 12, "corr": "해요", "conf": 0.9, "type": "Lexical choice"}
+{"id": 98, "config": "Qwen3-8B (0-shot)", "sent_id": 86, "start": 1, "end": 3, "corr": "수요일하고", "conf": 0.8, "type": "Spacing"}
+{"id": 99, "config": "Qwen3-8B (0-shot)", "sent_id": 117, "start": 1, "end": 3, "corr": "시를 좋아하고", "conf": 0.0, "type": "Lexical choice"}
+{"id": 100, "config": "Midm-2.0 (4-shot)", "sent_id": 963, "start": 5, "end": 5, "corr": "→ 하고 사람이 많이 없어요 .", "conf": 0.0, "type": "Insertion/deletion"}
+{"id": 101, "config": "Midm-2.0 (0-shot)", "sent_id": 1155, "start": 3, "end": 4, "corr": "따르는", "conf": 0.5, "type": "Spelling"}
+{"id": 102, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 739, "start": 6, "end": 6, "corr": ",", "conf": 1.0, "type": "Punctuation"}
+{"id": 103, "config": "Qwen3-32B (4-shot)", "sent_id": 1395, "start": 4, "end": 5, "corr": "의지한다고", "conf": 0.7, "type": "Ending"}
+{"id": 104, "config": "Qwen3-8B (4-shot)", "sent_id": 592, "start": 9, "end": 11, "corr": "성격이", "conf": 1.0, "type": "Lexical choice"}
+{"id": 105, "config": "Midm-2.0 (0-shot)", "sent_id": 400, "start": 4, "end": 4, "corr": "원한다", "conf": 0.4, "type": "Insertion/deletion"}
+{"id": 106, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 732, "start": 5, "end": 6, "corr": "일하지만 ,", "conf": 0.3, "type": "Lexical choice"}
+{"id": 107, "config": "Qwen3-14B (4-shot)", "sent_id": 706, "start": 8, "end": 9, "corr": "어딜로", "conf": 0.4, "type": "Spelling"}
+{"id": 108, "config": "Qwen3-8B (4-shot)", "sent_id": 736, "start": 5, "end": 5, "corr": ",", "conf": 0.6, "type": "Punctuation"}
+{"id": 109, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 809, "start": 2, "end": 3, "corr": "일을", "conf": 0.7, "type": "Lexical choice"}
+{"id": 110, "config": "Qwen3-8B (4-shot)", "sent_id": 882, "start": 0, "end": 2, "corr": "친구들", "conf": 0.6, "type": "Spelling"}
+{"id": 111, "config": "A.X-4.0-Light (4-shot)", "sent_id": 467, "start": 1, "end": 2, "corr": "인권은", "conf": 0.6, "type": "Particle"}
+{"id": 112, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 733, "start": 7, "end": 8, "corr": "좋아합니다", "conf": 0.7, "type": "Ending"}
+{"id": 113, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 1381, "start": 0, "end": 0, "corr": "문장 :", "conf": 0.6, "type": "Insertion/deletion"}
+{"id": 114, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 1318, "start": 0, "end": 0, "corr": "문장 :", "conf": 0.2, "type": "Insertion/deletion"}
+{"id": 115, "config": "A.X-4.0-Light (0-shot)", "sent_id": 1064, "start": 1, "end": 2, "corr": "부인들은", "conf": 0.5, "type": "Particle"}
+{"id": 116, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 995, "start": 2, "end": 3, "corr": "좋습니다", "conf": 0.3, "type": "Ending"}
+{"id": 117, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 548, "start": 1, "end": 2, "corr": "함께", "conf": 0.4, "type": "Lexical choice"}
+{"id": 118, "config": "A.X-4.0-Light (4-shot)", "sent_id": 1308, "start": 2, "end": 5, "corr": "사실이라면 세대 차이와 사고방식의", "conf": 0.4, "type": "Particle+ending"}
+{"id": 119, "config": "Qwen3-14B (0-shot)", "sent_id": 712, "start": 3, "end": 3, "corr": ",", "conf": 1.0, "type": "Punctuation"}
+{"id": 120, "config": "Qwen3-32B (0-shot)", "sent_id": 1124, "start": 1, "end": 2, "corr": "", "conf": 1.0, "type": "Punctuation"}
+{"id": 121, "config": "Qwen3-14B (0-shot)", "sent_id": 1049, "start": 0, "end": 1, "corr": "남편과", "conf": 1.0, "type": "Particle"}
+{"id": 122, "config": "Midm-2.0 (4-shot)", "sent_id": 279, "start": 5, "end": 6, "corr": "수업도", "conf": 0.6, "type": "Particle"}
+{"id": 123, "config": "Qwen3-32B (4-shot)", "sent_id": 658, "start": 4, "end": 4, "corr": "상황을", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 124, "config": "Qwen3-8B (4-shot)", "sent_id": 388, "start": 15, "end": 17, "corr": "일이 아니에요", "conf": 0.5, "type": "Lexical choice"}
+{"id": 125, "config": "Midm-2.0 (0-shot)", "sent_id": 643, "start": 5, "end": 7, "corr": "행동함으로써", "conf": 0.5, "type": "Spelling"}
+{"id": 126, "config": "Qwen3-32B (0-shot)", "sent_id": 278, "start": 0, "end": 0, "corr": "문장 :", "conf": 0.9, "type": "Insertion/deletion"}
+{"id": 127, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 1284, "start": 5, "end": 7, "corr": "힘들었던", "conf": 1.0, "type": "Spelling"}
+{"id": 128, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 1030, "start": 2, "end": 5, "corr": "공부를 열심히 하기로 결정했습니다", "conf": 0.6, "type": "Spelling"}
+{"id": 129, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 1367, "start": 5, "end": 6, "corr": "있어요", "conf": 0.4, "type": "Ending"}
+{"id": 130, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 1220, "start": 0, "end": 0, "corr": "문장 :", "conf": 0.4, "type": "Insertion/deletion"}
+{"id": 131, "config": "Qwen3-14B (4-shot)", "sent_id": 542, "start": 9, "end": 10, "corr": "그리고", "conf": 1.0, "type": "Lexical choice"}
+{"id": 132, "config": "Qwen3-32B (0-shot)", "sent_id": 1187, "start": 0, "end": 0, "corr": "문장 :", "conf": 0.1, "type": "Insertion/deletion"}
+{"id": 133, "config": "Qwen3-14B (4-shot)", "sent_id": 730, "start": 3, "end": 4, "corr": "저는", "conf": 0.3, "type": "Lexical choice"}
+{"id": 134, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 1235, "start": 3, "end": 4, "corr": "했어요", "conf": 1.0, "type": "Ending"}
+{"id": 135, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 1334, "start": 6, "end": 8, "corr": "낼지 결정해야", "conf": 0.7, "type": "Spelling"}
+{"id": 136, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 181, "start": 1, "end": 2, "corr": "속이 상하게", "conf": 0.4, "type": "Lexical choice"}
+{"id": 137, "config": "Midm-2.0 (4-shot)", "sent_id": 1182, "start": 1, "end": 2, "corr": "변호사면", "conf": 0.3, "type": "Spelling"}
+{"id": 138, "config": "Qwen3-14B (0-shot)", "sent_id": 764, "start": 4, "end": 5, "corr": ".", "conf": 0.6, "type": "Punctuation"}
+{"id": 139, "config": "Midm-2.0 (4-shot)", "sent_id": 311, "start": 6, "end": 6, "corr": "→ 보통에 쉬고 있으면 음악을 듣습니다 .", "conf": 0.2, "type": "Insertion/deletion"}
+{"id": 140, "config": "Qwen3-8B (0-shot)", "sent_id": 212, "start": 7, "end": 8, "corr": "배우고 있어요", "conf": 1.0, "type": "Lexical choice"}
+{"id": 141, "config": "Qwen3-14B (0-shot)", "sent_id": 965, "start": 1, "end": 3, "corr": "동숙자하고", "conf": 1.0, "type": "Spacing"}
+{"id": 142, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 265, "start": 2, "end": 4, "corr": "어거스트에서", "conf": 0.2, "type": "Spelling"}
+{"id": 143, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 1151, "start": 3, "end": 4, "corr": "송별회를 하는 것이 좋을까 , 그렇지 않은 것이 좋을까", "conf": 0.0, "type": "Multi-word rewrite"}
+{"id": 144, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 831, "start": 4, "end": 5, "corr": "예쁘어요", "conf": 0.5, "type": "Spelling"}
+{"id": 145, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 1276, "start": 6, "end": 7, "corr": "사람들에게도 친절합니다", "conf": 0.1, "type": "Lexical choice"}
+{"id": 146, "config": "Qwen3-32B (4-shot)", "sent_id": 122, "start": 2, "end": 3, "corr": "샀어요", "conf": 0.4, "type": "Lexical choice"}
+{"id": 147, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 694, "start": 3, "end": 5, "corr": "방법이 없다", "conf": 0.7, "type": "Particle+ending"}
+{"id": 148, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 1381, "start": 6, "end": 10, "corr": "듣자마자 관두고 싶어", "conf": 0.0, "type": "Multi-word rewrite"}
+{"id": 149, "config": "Qwen3-32B (0-shot)", "sent_id": 1341, "start": 4, "end": 5, "corr": "태풍이", "conf": 0.7, "type": "Lexical choice"}
+{"id": 150, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 475, "start": 6, "end": 7, "corr": "일요일에", "conf": 1.0, "type": "Particle"}
+{"id": 151, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 1296, "start": 1, "end": 2, "corr": "음어가", "conf": 0.2, "type": "Lexical choice"}
+{"id": 152, "config": "Qwen3-8B (4-shot)", "sent_id": 567, "start": 2, "end": 3, "corr": "다정합니다", "conf": 0.6, "type": "Spelling"}
+{"id": 153, "config": "Midm-2.0 (4-shot)", "sent_id": 945, "start": 1, "end": 2, "corr": "된장찌개라도", "conf": 0.7, "type": "Lexical choice"}
+{"id": 154, "config": "Qwen3-8B (4-shot)", "sent_id": 858, "start": 1, "end": 3, "corr": "세일과 디스카운트를", "conf": 0.6, "type": "Spelling"}
+{"id": 155, "config": "Qwen3-8B (0-shot)", "sent_id": 1344, "start": 10, "end": 11, "corr": "답은", "conf": 0.9, "type": "Spelling"}
+{"id": 156, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 1251, "start": 3, "end": 4, "corr": "정말", "conf": 0.4, "type": "Lexical choice"}
+{"id": 157, "config": "Qwen3-14B (4-shot)", "sent_id": 1001, "start": 5, "end": 6, "corr": "좋어요", "conf": 0.3, "type": "Spelling"}
+{"id": 158, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 456, "start": 5, "end": 6, "corr": "행복의 요소는", "conf": 0.1, "type": "Lexical choice"}
+{"id": 159, "config": "Midm-2.0 (4-shot)", "sent_id": 974, "start": 3, "end": 4, "corr": "선생님", "conf": 1.0, "type": "Particle"}
+{"id": 160, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 1162, "start": 3, "end": 7, "corr": "한국 분이시니까 당연히 저도 한국인이지요", "conf": 0.1, "type": "Multi-word rewrite"}
+{"id": 161, "config": "Qwen3-8B (4-shot)", "sent_id": 1383, "start": 9, "end": 10, "corr": "합니다", "conf": 0.5, "type": "Ending"}
+{"id": 162, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 274, "start": 3, "end": 4, "corr": "합니다", "conf": 1.0, "type": "Lexical choice"}
+{"id": 163, "config": "Qwen3-8B (0-shot)", "sent_id": 404, "start": 15, "end": 17, "corr": "슬퍼서 살", "conf": 0.3, "type": "Lexical choice"}
+{"id": 164, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 253, "start": 4, "end": 4, "corr": "하지만 주어진 규칙에 따라 오류만 교정하면 :", "conf": 0.0, "type": "Insertion/deletion"}
+{"id": 165, "config": "Midm-2.0 (0-shot)", "sent_id": 938, "start": 4, "end": 5, "corr": "아니라", "conf": 1.0, "type": "Spelling"}
+{"id": 166, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 77, "start": 0, "end": 0, "corr": "문장 :", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 167, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 1382, "start": 0, "end": 3, "corr": "", "conf": 0.8, "type": "Insertion/deletion"}
+{"id": 168, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 451, "start": 3, "end": 4, "corr": "살", "conf": 0.3, "type": "Lexical choice"}
+{"id": 169, "config": "A.X-4.0-Light (0-shot)", "sent_id": 643, "start": 5, "end": 8, "corr": "행동으로 함으로써 , 좀 더", "conf": 0.1, "type": "Spelling"}
+{"id": 170, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 441, "start": 3, "end": 4, "corr": "다녀도", "conf": 0.8, "type": "Lexical choice"}
+{"id": 171, "config": "Qwen3-32B (4-shot)", "sent_id": 313, "start": 0, "end": 1, "corr": "재미있어요", "conf": 1.0, "type": "Ending"}
+{"id": 172, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 968, "start": 3, "end": 6, "corr": "친구와", "conf": 0.1, "type": "Multi-word rewrite"}
+{"id": 173, "config": "A.X-4.0-Light (4-shot)", "sent_id": 1278, "start": 6, "end": 7, "corr": "그중", "conf": 0.2, "type": "Lexical choice"}
+{"id": 174, "config": "Qwen3-14B (4-shot)", "sent_id": 1120, "start": 1, "end": 3, "corr": "많아요", "conf": 1.0, "type": "Spelling"}
+{"id": 175, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 410, "start": 3, "end": 4, "corr": "선행하는데", "conf": 0.4, "type": "Spelling"}
+{"id": 176, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 546, "start": 0, "end": 2, "corr": "아니에요", "conf": 0.2, "type": "Lexical choice"}
+{"id": 177, "config": "Qwen3-32B (4-shot)", "sent_id": 488, "start": 10, "end": 10, "corr": ",", "conf": 1.0, "type": "Punctuation"}
+{"id": 178, "config": "Qwen3-32B (0-shot)", "sent_id": 966, "start": 2, "end": 4, "corr": "위에", "conf": 1.0, "type": "Lexical choice"}
+{"id": 179, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 142, "start": 0, "end": 0, "corr": "문장 :", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 180, "config": "A.X-4.0-Light (4-shot)", "sent_id": 808, "start": 7, "end": 7, "corr": ",", "conf": 1.0, "type": "Punctuation"}
+{"id": 181, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 876, "start": 1, "end": 3, "corr": "우리는 보스턴에", "conf": 1.0, "type": "Spelling"}
+{"id": 182, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 211, "start": 2, "end": 3, "corr": "살고 있습니다", "conf": 0.4, "type": "Lexical choice"}
+{"id": 183, "config": "Qwen3-8B (0-shot)", "sent_id": 595, "start": 4, "end": 6, "corr": "경험은", "conf": 1.0, "type": "Particle"}
+{"id": 184, "config": "Qwen3-32B (0-shot)", "sent_id": 218, "start": 1, "end": 3, "corr": "상트페테르부르크를", "conf": 1.0, "type": "Spacing"}
+{"id": 185, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 393, "start": 3, "end": 7, "corr": "멀어지면 ,", "conf": 0.6, "type": "Multi-word rewrite"}
+{"id": 186, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 1280, "start": 8, "end": 10, "corr": "행복에", "conf": 0.7, "type": "Lexical choice"}
+{"id": 187, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 1374, "start": 6, "end": 7, "corr": "싫어", "conf": 0.1, "type": "Ending"}
+{"id": 188, "config": "Qwen3-32B (0-shot)", "sent_id": 1391, "start": 0, "end": 1, "corr": "밤에", "conf": 0.7, "type": "Spelling"}
+{"id": 189, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 982, "start": 0, "end": 1, "corr": "토요일과", "conf": 0.8, "type": "Particle"}
+{"id": 190, "config": "Qwen3-8B (0-shot)", "sent_id": 1273, "start": 2, "end": 3, "corr": "알 만큼", "conf": 1.0, "type": "Spacing"}
+{"id": 191, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 1163, "start": 1, "end": 2, "corr": "한국어를", "conf": 1.0, "type": "Spelling"}
+{"id": 192, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 937, "start": 0, "end": 0, "corr": "문장 :", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 193, "config": "Qwen3-14B (4-shot)", "sent_id": 516, "start": 5, "end": 6, "corr": "달려 있습니다", "conf": 0.7, "type": "Ending"}
+{"id": 194, "config": "A.X-4.0-Light (0-shot)", "sent_id": 26, "start": 0, "end": 1, "corr": "안녕하세요", "conf": 1.0, "type": "Ending"}
+{"id": 195, "config": "A.X-4.0-Light (0-shot)", "sent_id": 752, "start": 10, "end": 11, "corr": ",", "conf": 1.0, "type": "Lexical choice"}
+{"id": 196, "config": "Qwen3-32B (4-shot)", "sent_id": 29, "start": 1, "end": 2, "corr": "", "conf": 0.6, "type": "Insertion/deletion"}
+{"id": 197, "config": "A.X-4.0-Light (4-shot)", "sent_id": 1295, "start": 9, "end": 10, "corr": "질", "conf": 0.5, "type": "Lexical choice"}
+{"id": 198, "config": "Qwen3-8B (4-shot)", "sent_id": 1139, "start": 1, "end": 2, "corr": "북경과", "conf": 0.8, "type": "Particle"}
+{"id": 199, "config": "Midm-2.0 (0-shot)", "sent_id": 1411, "start": 9, "end": 10, "corr": "늘어났어요", "conf": 1.0, "type": "Lexical choice"}
+{"id": 200, "config": "Qwen3-14B (0-shot)", "sent_id": 57, "start": 2, "end": 3, "corr": "끝나고", "conf": 0.8, "type": "Lexical choice"}
+{"id": 201, "config": "Midm-2.0 (0-shot)", "sent_id": 1289, "start": 2, "end": 3, "corr": "또 같은", "conf": 0.4, "type": "Spacing"}
+{"id": 202, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 1027, "start": 5, "end": 9, "corr": ", 그때 공부할 생각이었지만", "conf": 0.2, "type": "Spelling"}
+{"id": 203, "config": "Qwen3-8B (0-shot)", "sent_id": 1212, "start": 4, "end": 6, "corr": "정도는 다르고", "conf": 0.7, "type": "Lexical choice"}
+{"id": 204, "config": "Qwen3-8B (0-shot)", "sent_id": 1391, "start": 4, "end": 5, "corr": "굴러가면서도", "conf": 0.7, "type": "Spelling"}
+{"id": 205, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 18, "start": 0, "end": 1, "corr": "고향에는", "conf": 0.5, "type": "Particle"}
+{"id": 206, "config": "Qwen3-14B (0-shot)", "sent_id": 792, "start": 4, "end": 5, "corr": "회사에", "conf": 0.8, "type": "Particle"}
+{"id": 207, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 606, "start": 6, "end": 9, "corr": "생활했는지 전시됩니다", "conf": 0.6, "type": "Particle"}
+{"id": 208, "config": "Qwen3-8B (4-shot)", "sent_id": 794, "start": 3, "end": 5, "corr": "재미있고", "conf": 0.9, "type": "Lexical choice"}
+{"id": 209, "config": "Qwen3-32B (4-shot)", "sent_id": 1242, "start": 8, "end": 10, "corr": "관련도 있어요", "conf": 0.5, "type": "Lexical choice"}
+{"id": 210, "config": "Qwen3-14B (0-shot)", "sent_id": 1335, "start": 3, "end": 4, "corr": "만나면", "conf": 0.3, "type": "Lexical choice"}
+{"id": 211, "config": "Midm-2.0 (0-shot)", "sent_id": 7, "start": 2, "end": 3, "corr": "아침에", "conf": 0.5, "type": "Particle"}
+{"id": 212, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 1109, "start": 1, "end": 3, "corr": "핑크색 알을", "conf": 0.4, "type": "Particle"}
+{"id": 213, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 725, "start": 4, "end": 5, "corr": "텐데", "conf": 1.0, "type": "Lexical choice"}
+{"id": 214, "config": "Midm-2.0 (4-shot)", "sent_id": 1028, "start": 2, "end": 3, "corr": "선생님께", "conf": 0.5, "type": "Lexical choice"}
+{"id": 215, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 1322, "start": 4, "end": 10, "corr": "운동을 열심히 하고", "conf": 0.3, "type": "Multi-word rewrite"}
+{"id": 216, "config": "Qwen3-14B (0-shot)", "sent_id": 36, "start": 1, "end": 3, "corr": "나쁜 사람은", "conf": 1.0, "type": "Particle+ending"}
+{"id": 217, "config": "Midm-2.0 (4-shot)", "sent_id": 1275, "start": 3, "end": 5, "corr": "행복하게 해 준다고", "conf": 0.3, "type": "Multi-word rewrite"}
+{"id": 218, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 932, "start": 3, "end": 4, "corr": "", "conf": 0.5, "type": "Insertion/deletion"}
+{"id": 219, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 587, "start": 2, "end": 3, "corr": "우리의", "conf": 0.8, "type": "Particle"}
+{"id": 220, "config": "A.X-4.0-Light (4-shot)", "sent_id": 97, "start": 2, "end": 4, "corr": "외국입니다", "conf": 0.5, "type": "Spacing"}
+{"id": 221, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 207, "start": 0, "end": 0, "corr": "문장 :", "conf": 0.7, "type": "Insertion/deletion"}
+{"id": 222, "config": "A.X-4.0-Light (0-shot)", "sent_id": 1159, "start": 5, "end": 7, "corr": "한국말을 서투르게 했어요", "conf": 0.2, "type": "Spelling"}
+{"id": 223, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 35, "start": 1, "end": 2, "corr": "있는 회사의", "conf": 0.8, "type": "Lexical choice"}
+{"id": 224, "config": "Midm-2.0 (0-shot)", "sent_id": 680, "start": 12, "end": 13, "corr": "", "conf": 0.4, "type": "Punctuation"}
+{"id": 225, "config": "Midm-2.0 (0-shot)", "sent_id": 1238, "start": 13, "end": 16, "corr": "포기했습니다\"", "conf": 1.0, "type": "Spacing"}
+{"id": 226, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 446, "start": 1, "end": 3, "corr": "명소로는 Sears 탑", "conf": 0.7, "type": "Spelling"}
+{"id": 227, "config": "Midm-2.0 (4-shot)", "sent_id": 317, "start": 3, "end": 4, "corr": "열심히 합니다", "conf": 0.2, "type": "Lexical choice"}
+{"id": 228, "config": "Qwen3-8B (0-shot)", "sent_id": 1191, "start": 10, "end": 11, "corr": "있다면", "conf": 0.6, "type": "Ending"}
+{"id": 229, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 1340, "start": 6, "end": 6, "corr": ",", "conf": 1.0, "type": "Punctuation"}
+{"id": 230, "config": "Qwen3-8B (4-shot)", "sent_id": 859, "start": 2, "end": 3, "corr": "친구들과", "conf": 0.5, "type": "Particle"}
+{"id": 231, "config": "A.X-4.0-Light (4-shot)", "sent_id": 1280, "start": 2, "end": 3, "corr": "무시하거나", "conf": 0.8, "type": "Ending"}
+{"id": 232, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 1325, "start": 7, "end": 10, "corr": "국립 박물관이 정말 많았어요", "conf": 0.1, "type": "Spelling"}
+{"id": 233, "config": "A.X-4.0-Light (4-shot)", "sent_id": 649, "start": 2, "end": 5, "corr": "4년쯤", "conf": 0.6, "type": "Spelling"}
+{"id": 234, "config": "A.X-4.0-Light (0-shot)", "sent_id": 731, "start": 9, "end": 10, "corr": "같습니다", "conf": 0.8, "type": "Ending"}
+{"id": 235, "config": "Qwen3-14B (4-shot)", "sent_id": 326, "start": 2, "end": 3, "corr": "춥겠지요", "conf": 0.6, "type": "Ending"}
+{"id": 236, "config": "A.X-4.0-Light (0-shot)", "sent_id": 320, "start": 3, "end": 4, "corr": "", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 237, "config": "A.X-4.0-Light (4-shot)", "sent_id": 1241, "start": 3, "end": 4, "corr": "역사가", "conf": 0.4, "type": "Particle"}
+{"id": 238, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 396, "start": 3, "end": 5, "corr": "사람은 정말", "conf": 0.4, "type": "Lexical choice"}
+{"id": 239, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 1204, "start": 0, "end": 0, "corr": "문장 :", "conf": 0.9, "type": "Insertion/deletion"}
+{"id": 240, "config": "A.X-4.0-Light (4-shot)", "sent_id": 436, "start": 6, "end": 7, "corr": "했고 ,", "conf": 1.0, "type": "Ending"}
+{"id": 241, "config": "A.X-4.0-Light (0-shot)", "sent_id": 847, "start": 2, "end": 3, "corr": "많습니다", "conf": 1.0, "type": "Ending"}
+{"id": 242, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 1344, "start": 9, "end": 11, "corr": "예상되는 대답은", "conf": 0.4, "type": "Spelling"}
+{"id": 243, "config": "Qwen3-32B (0-shot)", "sent_id": 181, "start": 1, "end": 2, "corr": "주제", "conf": 0.4, "type": "Lexical choice"}
+{"id": 244, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 392, "start": 7, "end": 8, "corr": "", "conf": 0.3, "type": "Insertion/deletion"}
+{"id": 245, "config": "Qwen3-8B (0-shot)", "sent_id": 112, "start": 1, "end": 3, "corr": "학년이에요", "conf": 1.0, "type": "Spacing"}
+{"id": 246, "config": "Qwen3-32B (0-shot)", "sent_id": 1151, "start": 8, "end": 9, "corr": "그거예요", "conf": 0.3, "type": "Spelling"}
+{"id": 247, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 438, "start": 4, "end": 6, "corr": "여자친구도", "conf": 1.0, "type": "Spacing"}
+{"id": 248, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 940, "start": 15, "end": 16, "corr": "전달하는", "conf": 0.6, "type": "Lexical choice"}
+{"id": 249, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 804, "start": 5, "end": 6, "corr": "병행하니까", "conf": 0.5, "type": "Lexical choice"}
+{"id": 250, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 868, "start": 6, "end": 9, "corr": ", 그", "conf": 0.4, "type": "Multi-word rewrite"}
+{"id": 251, "config": "Midm-2.0 (4-shot)", "sent_id": 97, "start": 2, "end": 4, "corr": "것은 외국입니다", "conf": 0.8, "type": "Spelling"}
+{"id": 252, "config": "Qwen3-32B (0-shot)", "sent_id": 480, "start": 3, "end": 4, "corr": "한글도", "conf": 1.0, "type": "Spelling"}
+{"id": 253, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 868, "start": 6, "end": 6, "corr": ",", "conf": 0.8, "type": "Punctuation"}
+{"id": 254, "config": "Qwen3-32B (4-shot)", "sent_id": 1388, "start": 3, "end": 6, "corr": "소식을 듣고 싶을 데요", "conf": 0.6, "type": "Spelling"}
+{"id": 255, "config": "Qwen3-14B (0-shot)", "sent_id": 827, "start": 5, "end": 7, "corr": "하려고 해요", "conf": 0.6, "type": "Lexical choice"}
+{"id": 256, "config": "Qwen3-14B (4-shot)", "sent_id": 1308, "start": 3, "end": 5, "corr": "세대차이로 인한 사고방식의", "conf": 0.8, "type": "Spelling"}
+{"id": 257, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 1386, "start": 1, "end": 4, "corr": "해야 할 이야기만 아이들에게", "conf": 0.8, "type": "Spelling"}
+{"id": 258, "config": "Qwen3-32B (4-shot)", "sent_id": 926, "start": 3, "end": 4, "corr": "엄마와", "conf": 0.9, "type": "Particle"}
+{"id": 259, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 1317, "start": 1, "end": 2, "corr": "달에는", "conf": 1.0, "type": "Particle"}
+{"id": 260, "config": "Qwen3-32B (0-shot)", "sent_id": 1367, "start": 5, "end": 6, "corr": "있어요", "conf": 0.5, "type": "Ending"}
+{"id": 261, "config": "EXAONE-3.5-7.8B (0-shot)", "sent_id": 863, "start": 6, "end": 8, "corr": "장르의 영화마다", "conf": 0.0, "type": "Lexical choice"}
+{"id": 262, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 657, "start": 2, "end": 4, "corr": "이유와", "conf": 1.0, "type": "Lexical choice"}
+{"id": 263, "config": "Midm-2.0 (4-shot)", "sent_id": 769, "start": 2, "end": 3, "corr": "셰어하우스에", "conf": 0.3, "type": "Lexical choice"}
+{"id": 264, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 558, "start": 6, "end": 7, "corr": "의정부를 방문했습니다", "conf": 0.8, "type": "Lexical choice"}
+{"id": 265, "config": "Qwen3-14B (4-shot)", "sent_id": 537, "start": 4, "end": 6, "corr": "국립공원은", "conf": 1.0, "type": "Spacing"}
+{"id": 266, "config": "Midm-2.0 (0-shot)", "sent_id": 349, "start": 1, "end": 3, "corr": "음악가입니다", "conf": 1.0, "type": "Spacing"}
+{"id": 267, "config": "Qwen3-14B (0-shot)", "sent_id": 172, "start": 4, "end": 5, "corr": "족음", "conf": 0.6, "type": "Spelling"}
+{"id": 268, "config": "Qwen3-8B (4-shot)", "sent_id": 805, "start": 8, "end": 9, "corr": "유저하고", "conf": 0.3, "type": "Lexical choice"}
+{"id": 269, "config": "Qwen3-14B (0-shot)", "sent_id": 641, "start": 10, "end": 11, "corr": "조심하세요", "conf": 0.6, "type": "Spelling"}
+{"id": 270, "config": "Qwen3-32B (4-shot)", "sent_id": 454, "start": 4, "end": 5, "corr": "것 같다", "conf": 1.0, "type": "Lexical choice"}
+{"id": 271, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 980, "start": 0, "end": 0, "corr": "문장 :", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 272, "config": "Qwen3-14B (0-shot)", "sent_id": 1027, "start": 5, "end": 5, "corr": ",", "conf": 1.0, "type": "Punctuation"}
+{"id": 273, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 1341, "start": 6, "end": 6, "corr": "선선하다", "conf": 0.0, "type": "Insertion/deletion"}
+{"id": 274, "config": "Midm-2.0 (0-shot)", "sent_id": 826, "start": 7, "end": 7, "corr": "거라고 했으니까\" 갈", "conf": 0.0, "type": "Insertion/deletion"}
+{"id": 275, "config": "Qwen3-8B (4-shot)", "sent_id": 404, "start": 15, "end": 17, "corr": "슬퍼서 살", "conf": 0.2, "type": "Lexical choice"}
+{"id": 276, "config": "Qwen3-32B (4-shot)", "sent_id": 1355, "start": 2, "end": 5, "corr": "한국말을 못 알아서", "conf": 0.4, "type": "Spelling"}
+{"id": 277, "config": "Qwen3-14B (4-shot)", "sent_id": 358, "start": 4, "end": 4, "corr": ",", "conf": 1.0, "type": "Punctuation"}
+{"id": 278, "config": "HyperCLOVAX-1.5B (4-shot)", "sent_id": 443, "start": 3, "end": 4, "corr": "Chicago를", "conf": 0.2, "type": "Spelling"}
+{"id": 279, "config": "Qwen3-8B (0-shot)", "sent_id": 1388, "start": 4, "end": 6, "corr": "같고 싶을 데", "conf": 0.1, "type": "Spelling"}
+{"id": 280, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 985, "start": 0, "end": 1, "corr": "문장 : 친구랑", "conf": 0.5, "type": "Multi-word rewrite"}
+{"id": 281, "config": "A.X-4.0-Light (4-shot)", "sent_id": 344, "start": 2, "end": 3, "corr": "마치겠습니다", "conf": 0.2, "type": "Lexical choice"}
+{"id": 282, "config": "Qwen3-8B (0-shot)", "sent_id": 641, "start": 10, "end": 11, "corr": "조심하고 싶시요", "conf": 1.0, "type": "Spelling"}
+{"id": 283, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 708, "start": 8, "end": 9, "corr": "색이", "conf": 0.6, "type": "Spelling"}
+{"id": 284, "config": "Qwen3-8B (4-shot)", "sent_id": 186, "start": 1, "end": 3, "corr": "쉬셨어요", "conf": 0.7, "type": "Lexical choice"}
+{"id": 285, "config": "A.X-4.0-Light (0-shot)", "sent_id": 1360, "start": 5, "end": 6, "corr": "알아야 합니다", "conf": 1.0, "type": "Lexical choice"}
+{"id": 286, "config": "EXAONE-3.5-7.8B (4-shot)", "sent_id": 262, "start": 1, "end": 2, "corr": "친구들은", "conf": 0.3, "type": "Particle"}
+{"id": 287, "config": "Qwen3-32B (4-shot)", "sent_id": 123, "start": 4, "end": 5, "corr": "좋습니다", "conf": 0.6, "type": "Ending"}
+{"id": 288, "config": "Qwen3-8B (0-shot)", "sent_id": 1359, "start": 0, "end": 1, "corr": "그러서", "conf": 0.6, "type": "Spelling"}
+{"id": 289, "config": "Midm-2.0 (4-shot)", "sent_id": 701, "start": 3, "end": 5, "corr": "20km였으며", "conf": 0.8, "type": "Lexical choice"}
+{"id": 290, "config": "A.X-4.0-Light (0-shot)", "sent_id": 1245, "start": 14, "end": 15, "corr": "", "conf": 0.3, "type": "Punctuation"}
+{"id": 291, "config": "Qwen3-14B (0-shot)", "sent_id": 276, "start": 2, "end": 3, "corr": "듣습니다", "conf": 1.0, "type": "Ending"}
+{"id": 292, "config": "Qwen3-14B (4-shot)", "sent_id": 916, "start": 0, "end": 0, "corr": "아침을 먹고", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 293, "config": "Qwen3-32B (4-shot)", "sent_id": 516, "start": 5, "end": 6, "corr": "달려 있다", "conf": 0.8, "type": "Spacing"}
+{"id": 294, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 114, "start": 0, "end": 0, "corr": "문장 :", "conf": 0.6, "type": "Insertion/deletion"}
+{"id": 295, "config": "Kanana-1.5-8B (4-shot)", "sent_id": 1170, "start": 3, "end": 4, "corr": "없었습니다", "conf": 0.9, "type": "Ending"}
+{"id": 296, "config": "Qwen3-14B (0-shot)", "sent_id": 442, "start": 4, "end": 6, "corr": "드리겠습니다", "conf": 1.0, "type": "Spelling"}
+{"id": 297, "config": "Midm-2.0 (0-shot)", "sent_id": 413, "start": 11, "end": 12, "corr": "목표도", "conf": 0.6, "type": "Particle"}
+{"id": 298, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 346, "start": 0, "end": 0, "corr": "문장 :", "conf": 1.0, "type": "Insertion/deletion"}
+{"id": 299, "config": "Kanana-1.5-8B (0-shot)", "sent_id": 652, "start": 7, "end": 9, "corr": "무스를 모두", "conf": 0.1, "type": "Lexical choice"}
+{"id": 300, "config": "Midm-2.0 (4-shot)", "sent_id": 1267, "start": 2, "end": 4, "corr": "산더미처럼", "conf": 1.0, "type": "Spacing"}
+{"id": 301, "config": "Midm-2.0 (0-shot)", "sent_id": 1271, "start": 3, "end": 4, "corr": "승진시키는", "conf": 0.7, "type": "Spelling"}
+{"id": 302, "config": "Qwen3-8B (4-shot)", "sent_id": 419, "start": 2, "end": 2, "corr": ",", "conf": 0.3, "type": "Punctuation"}
+{"id": 303, "config": "HyperCLOVAX-1.5B (0-shot)", "sent_id": 541, "start": 0, "end": 0, "corr": "문장 :", "conf": 1.0, "type": "Insertion/deletion"}
